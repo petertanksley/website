@@ -1,7 +1,7 @@
 {
-  "hash": "1ee90fbd42e47a07c9559c67289b5d13",
+  "hash": "3facde45e6526a2d8465e95bfe5af3bd",
   "result": {
-    "markdown": "---\ntitle: \"Welcome, my lords, to Isengard!\"\n---\n\n\nThis is the beta version of my personal website. I will be developing it over time and filling it with fun stuff... about me! Not that interesting, I know. BUT, it will be a one-stop-shop for corn and Frisbees, so how can you pass on that, right?\n\n...bear with, I beg you...\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Hello, world\"\n```\n:::\n:::\n\n\n1.  Test\n\n2.  Test\n\nFerris?\n\n-   Bueller?\n\n-   Bueller?\n",
+    "markdown": "---\ntitle: \"Welcome, my lords, to Isengard!\"\n---\n\n\nThis is the beta version of my personal website. I will be developing it over time and filling it with fun stuff... about me! Not that interesting, I know. BUT, it will be a one-stop-shop for corn and Frisbees, so how can you pass on that, right?\n\n...bear with, I beg you...\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Hello, world\"\n```\n:::\n:::\n\n\n1.  Test\n\n2.  Test\n\nFerris?\n\n-   Bueller?\n\n-   Bueller?\n\nAnd now to test the first GIT commit\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
