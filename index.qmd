@@ -1,0 +1,21 @@
+---
+title: "Welcome, my lords, to Isengard!"
+---
+
+This is the beta version of my personal website. I will be developing it over time and filling it with fun stuff... about me! Not that interesting, I know. BUT, it will be a one-stop-shop for corn and Frisbees, so how can you pass on that, right?
+
+...bear with, I beg you...
+
+```{r, echo=FALSE}
+print("Hello, world")
+```
+
+1.  Test
+
+2.  Test
+
+Ferris?
+
+-   Bueller?
+
+-   Bueller?
