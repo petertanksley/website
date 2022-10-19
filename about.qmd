@@ -1,7 +1,50 @@
 ---
-title: "Autobiographical Bull Honkey"
+title: "About Me"
+image: tanksley_peter.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 10em
 ---
 
-This is where I write down pretentious stuff about how great I am, what I want to do with this site, etc... Good times.
+# **Welcome, my lords, to Isengard!**
 
-`Nifty, huh?`
+Pull up a chair and sit on the floor, I'll tell you a story I've never heard before...
+
+------------------------------------------------------------------------
+
+## **Education**
+
+**Postdoctoral Fellowship (2020-present)**
+
+University of Texas at Austin, Texas
+
+**Doctorate in Criminal Justice (2020)**
+
+University of Cincinnati, Ohio
+
+**Masters in Criminology (2016)**
+
+University of Texas at San Antonio, Texas
+
+**Bachelors in Criminal Justice (2014)**
+
+University of Texas at San Antonio, Texas
+
+------------------------------------------------------------------------
+
+## **Interests**
+
+-   Research
+
+-   Biology
+
+    -   Evolution
+
+    -   Genetics
+
+    -   Aging
+
+    -   Statistics
+
+-   Sci-fi/fantasy
