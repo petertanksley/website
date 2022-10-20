@@ -7,9 +7,9 @@ about:
   image-width: 10em
 ---
 
-# **Welcome, my lords, to Isengard!**
+# **A little about me**
 
-Pull up a chair and sit on the floor, I'll tell you a story I've never heard before...
+Below you'll find the obligatory blurb about my academic training and research interests (and some other things too!)
 
 ------------------------------------------------------------------------
 
@@ -35,16 +35,50 @@ University of Texas at San Antonio, Texas
 
 ## **Interests**
 
--   Research
+**Research**
 
--   Biology
+-   Criminal Justice
 
-    -   Evolution
+    -   Criminal justice contact
 
-    -   Genetics
+    -   Criminological theory
 
-    -   Aging
+    -   Desistance/aging out
 
-    -   Statistics
+    -   Victimization
 
--   Sci-fi/fantasy
+-   Social science genetics/epigenetics
+
+    -   Biologically sensitive designs
+
+    -   Polygenic scores
+
+    -   DNA-methylation
+
+-   Health
+
+    -   Life-course models of aging
+
+    -   Biological aging
+
+    -   Morbidity/mortality
+
+**Reading**
+
+-   Fantasy
+
+-   Science fiction
+
+-   Non-fiction
+
+    -   History
+
+    -   Pop-science
+
+**Other Fun Stuff I Like To Do**
+
+-   Training Brazilian Jiu-Jitsu with my wife, Anna
+
+-   Doing yard work/gardening with the fam
+
+-   Making cool/useful data visualizations in R
