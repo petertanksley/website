@@ -1,15 +1,20 @@
 ---
-title: "About Me"
-image: tanksley_peter.jpeg
+title: ""
+image: tanksley_peter_headshot.jpeg
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 10em
+  image-width: 20em
+  links:
+  - icon: twitter
+    text: Twitter
+    href: https://twitter.com/pttanksley
+  - icon: github
+    text: Github
+    href: https://github.com/petertanksley
 ---
 
 # **A little about me**
-
-Below you'll find the obligatory blurb about my academic training and research interests (and some other things too!)
 
 ------------------------------------------------------------------------
 
@@ -17,25 +22,23 @@ Below you'll find the obligatory blurb about my academic training and research i
 
 **Postdoctoral Fellowship (2020-present)**
 
-University of Texas at Austin, Texas
+-   University of Texas at Austin, Texas
 
 **Doctorate in Criminal Justice (2020)**
 
-University of Cincinnati, Ohio
+-   University of Cincinnati, Ohio
 
 **Masters in Criminology (2016)**
 
-University of Texas at San Antonio, Texas
+-   University of Texas at San Antonio, Texas
 
 **Bachelors in Criminal Justice (2014)**
 
-University of Texas at San Antonio, Texas
+-   University of Texas at San Antonio, Texas
 
 ------------------------------------------------------------------------
 
-## **Interests**
-
-**Research**
+## **Research Interests**
 
 -   Criminal Justice
 
@@ -62,23 +65,3 @@ University of Texas at San Antonio, Texas
     -   Biological aging
 
     -   Morbidity/mortality
-
-**Reading**
-
--   Fantasy
-
--   Science fiction
-
--   Non-fiction
-
-    -   History
-
-    -   Pop-science
-
-**Other Fun Stuff I Like To Do**
-
--   Training Brazilian Jiu-Jitsu with my wife, Anna
-
--   Doing yard work/gardening with the fam
-
--   Making cool/useful data visualizations in R
