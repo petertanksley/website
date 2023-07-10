@@ -10,7 +10,9 @@ website:
       #   href: index.qmd
       - text: Autobiographical BS
         href: about.qmd
-
+      - text: CV
+        href: cv.qmd
+        
 format:
   html:
     theme: cosmo

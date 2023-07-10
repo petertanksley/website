@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Peter T. Tanksley",
     "section": "",
-    "text": "My name is Peter Tanksley, I’m a biosocial criminologist studying social science genetics/epigenetics at UT Austin. This website is pretty boring right now but I plan to use it to host me-related information, materials, and (one day) a blog (“Left Hand Thoughts”).\nUntil I get things moving, I’d like to leave this image up as an illustration of how I (and many biosocial researchers like me) view their work. This image was taken from the cover of Douglas Hofstadter’s “Gödel, Escher, Bach: an Eternal Golden Braid”, a wonderful book about the origins of consciousness (at least, that was what I got from the 1/5 of the book that I managed to read in grad school before getting distracted by some world-ending assignment or other).\n\n\n\nCover image from “Gödel, Escher, Bach: an Eternal Golden Braid” by Douglas Hofstadter\n\n\nBut I have always found the image to be arresting and, if you imagine the letters to mean something other than the initials of the book’s title, also an apt visual depiction of how the key forces of biosocial research are interrelated (and interdependent). Imagine the letters stand for “Genes”, “Environment”, and “Behavior”. Most research paradigms make use of only two of the three, and they typically prioritize one in particular. For example, genome-wide association studies (GWAS) typically study genes and behavior (using the term very loosely), while assuming that the environments of the participants are exchangeable (i.e., they have no impact on the outcome). Of course, the people running these studies don’t really believe that to be the case, but it is a tacit assumption that many of those models make. In contrast, my perspective is that by leveraging multiple research paradigms and being as interdisciplinary as is practical, I can gain some kind of purchase on the colossal social issues that interest all social scientists (e.g., crime, poverty, health). As regards this image, think of a biosocial researcher as someone who is shifting the light source around this puzzling structure–suspended by mysterious means–and asking….\n\nWhat appears to be important if I look at it this way?\nWhat if I shift the light over here–what matters now?\nWhat if I use two lights at once?\n\nAnd so on, and so on, until a better understanding is gleaned.\nOk, that’s it for now! I hope to post more later on but for now, Bon voyage!"
+    "text": "&lt;iframe\nwidth=“1050”\nheight=“1200”\nsrc=“docs/tanksley_cv.pdf”&gt;\n&lt;/iframe&gt;"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Peter T. Tanksley",
+    "title": "A little about me",
     "section": "",
     "text": "Postdoctoral Fellowship (2020-present)\n\nUniversity of Texas at Austin, Texas\n\nDoctorate in Criminal Justice (2020)\n\nUniversity of Cincinnati, Ohio\n\nMasters in Criminology (2016)\n\nUniversity of Texas at San Antonio, Texas\n\nBachelors in Criminal Justice (2014)\n\nUniversity of Texas at San Antonio, Texas\n\n\n\n\n\n\nCriminal Justice\n\nCriminal justice contact\nCriminological theory\nDesistance/aging out\nVictimization\n\nSocial science genetics/epigenetics\n\nBiologically sensitive designs\nPolygenic scores\nDNA-methylation\n\nHealth\n\nLife-course models of aging\nBiological aging\nMorbidity/mortality"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "A little about me",
+    "section": "",
+    "text": "Postdoctoral Fellowship (2020-present)\n\nUniversity of Texas at Austin, Texas\n\nDoctorate in Criminal Justice (2020)\n\nUniversity of Cincinnati, Ohio\n\nMasters in Criminology (2016)\n\nUniversity of Texas at San Antonio, Texas\n\nBachelors in Criminal Justice (2014)\n\nUniversity of Texas at San Antonio, Texas"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "A little about me",
+    "section": "",
+    "text": "Criminal Justice\n\nCriminal justice contact\nCriminological theory\nDesistance/aging out\nVictimization\n\nSocial science genetics/epigenetics\n\nBiologically sensitive designs\nPolygenic scores\nDNA-methylation\n\nHealth\n\nLife-course models of aging\nBiological aging\nMorbidity/mortality"
   }
 ]
