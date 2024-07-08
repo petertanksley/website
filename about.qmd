@@ -18,23 +18,29 @@ about:
 
 ------------------------------------------------------------------------
 
-## **Education**
+## **Employment**
 
-**Postdoctoral Fellowship (2020-present)**
+**Postdoctoral Fellowship (2024-present)**
 
--   University of Texas at Austin, Texas
+-   ALERRT Center, Texas State University
+
+**Postdoctoral Fellowship (2020-2024)**
+
+-   University of Texas at Austin
+
+## Education
 
 **Doctorate in Criminal Justice (2020)**
 
--   University of Cincinnati, Ohio
+-   University of Cincinnati
 
 **Masters in Criminology (2016)**
 
--   University of Texas at San Antonio, Texas
+-   University of Texas at San Antonio
 
 **Bachelors in Criminal Justice (2014)**
 
--   University of Texas at San Antonio, Texas
+-   University of Texas at San Antonio
 
 ------------------------------------------------------------------------
 
@@ -42,26 +48,6 @@ about:
 
 -   Criminal Justice
 
-    -   Criminal justice contact
-
-    -   Criminological theory
-
-    -   Desistance/aging out
-
-    -   Victimization
-
 -   Social science genetics/epigenetics
 
-    -   Biologically sensitive designs
-
-    -   Polygenic scores
-
-    -   DNA-methylation
-
--   Health
-
-    -   Life-course models of aging
-
-    -   Biological aging
-
-    -   Morbidity/mortality
+-   Population Health
