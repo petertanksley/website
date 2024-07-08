@@ -10,7 +10,7 @@ website:
       #   href: index.qmd
       - text: Autobiographical BS
         href: about.qmd
-      - text: CV
+      - text: CV  
         href: cv.qmd  
       - posts.qmd  
         
