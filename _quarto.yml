@@ -5,14 +5,14 @@ project:
 website:
   title: "Peter T. Tanksley"
   navbar:
-    left:
+    right:
       # - text: Home
       #   href: index.qmd
+      - posts.qmd 
       - text: Autobiographical BS
         href: about.qmd
       - text: CV
         href: cv.qmd  
-      - posts.qmd 
         
         
 format:
