@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "My name is Peter Tanksley, I’m a biosocial criminologist studying social science genetics/epigenetics at UT Austin. This website is pretty boring right now but I plan to use it to host me-related information, materials, and (one day) a blog (“Left Hand Thoughts”).\nUntil I get things moving, I’d like to leave this image up as an illustration of how I (and many biosocial researchers like me) view their work. This image was taken from the cover of Douglas Hofstadter’s “Gödel, Escher, Bach: an Eternal Golden Braid”, a wonderful book about the origins of consciousness (at least, that was what I got from the 1/5 of the book that I managed to read in grad school before getting distracted by some world-ending assignment or other).\n\n\n\nCover image from “Gödel, Escher, Bach: an Eternal Golden Braid” by Douglas Hofstadter\n\n\nBut I have always found the image to be arresting and, if you imagine the letters to mean something other than the initials of the book’s title, also an apt visual depiction of how the key forces of biosocial research are interrelated (and interdependent). Imagine the letters stand for “Genes”, “Environment”, and “Behavior”. Most research paradigms make use of only two of the three, and they typically prioritize one in particular. For example, genome-wide association studies (GWAS) typically study genes and behavior (using the term very loosely), while assuming that the environments of the participants are exchangeable (i.e., they have no impact on the outcome). Of course, the people running these studies don’t really believe that to be the case, but it is a tacit assumption that many of those models make. In contrast, my perspective is that by leveraging multiple research paradigms and being as interdisciplinary as is practical, I can gain some kind of purchase on the colossal social issues that interest all social scientists (e.g., crime, poverty, health). As regards this image, think of a biosocial researcher as someone who is shifting the light source around this puzzling structure–suspended by mysterious means–and asking….\n\nWhat appears to be important if I look at it this way?\nWhat if I shift the light over here–what matters now?\nWhat if I use two lights at once?\n\nAnd so on, and so on, until a better understanding is gleaned.\nOk, that’s it for now! I hope to post more later on but for now, Bon voyage!"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "A little about me",
     "section": "",
     "text": "Postdoctoral Fellowship (2024-present)\n\nALERRT Center, Texas State University\n\nPostdoctoral Fellowship (2020-2024)\n\nUniversity of Texas at Austin\n\n\n\n\nDoctorate in Criminal Justice (2020)\n\nUniversity of Cincinnati\n\nMasters in Criminology (2016)\n\nUniversity of Texas at San Antonio\n\nBachelors in Criminal Justice (2014)\n\nUniversity of Texas at San Antonio\n\n\n\n\n\n\nCriminal Justice\nSocial science genetics/epigenetics\nPopulation Health"
+  },
+  {
+    "objectID": "about.html#employment",
+    "href": "about.html#employment",
+    "title": "A little about me",
+    "section": "",
+    "text": "Postdoctoral Fellowship (2024-present)\n\nALERRT Center, Texas State University\n\nPostdoctoral Fellowship (2020-2024)\n\nUniversity of Texas at Austin"
   },
   {
     "objectID": "about.html#education",
@@ -28,11 +28,18 @@
     "text": "Criminal Justice\nSocial science genetics/epigenetics\nPopulation Health"
   },
   {
-    "objectID": "about.html#employment",
-    "href": "about.html#employment",
-    "title": "A little about me",
+    "objectID": "posts/2024-07-07_lht_blog_init/index.html",
+    "href": "posts/2024-07-07_lht_blog_init/index.html",
+    "title": "Left-hand Thoughts",
     "section": "",
-    "text": "Postdoctoral Fellowship (2024-present)\n\nALERRT Center, Texas State University\n\nPostdoctoral Fellowship (2020-2024)\n\nUniversity of Texas at Austin"
+    "text": "Remember spiral notebooks?\nI’ve used spiral notebooks throughout my whole school career but it took me an embarrassingly long period of time to realize something about them: only the right-hand side is worth a damn. In terms of legibility, that is. I’m a righty, so writing down notes on the left-hand side meant that my hand rested on the spiral itself for roughly half of each class period. I. HATED. IT.\nSo, I ended up only writing notes on the right-hand side of my spirals. This worked, but then I had a whole blank page to deal with. What did I do with this unexpected windfall of college-ruled wonderland of possibilities? Doodled. Mostly. I also wrote down interesting thoughts, not always related to the lecture I was listening to—interesting to me at least. Thus, the left-hand side of the spiral took on a new life. It became where all of the interesting things went. Or perhaps just ideas that I wanted to evict from my brain (where they had been living rent-free). Either way, the “left-hand thoughts” turned out to be the most interesting parts of those spirals.\n\n\n\nSpiral notebook from… doctorate? Notice the LHT, something about the ocean as a metaphor for the multiverse and fate. I have no idea where I was going with that…\n\n\n\n\nFast forward to today…\nNot being in school anymore, I don’t use spirals hardly at all. My hope for this blog is that I’ll be able to capture the spirit of these left-hand thoughts (LHTs) in a more fully explored format. These will probably focus more on coding and statistics (the very lame topics that occupy my mental left-hand side of my mental spiral nowadays). But there may be some other topics of interest in the future as well. We’ll just need to see how things go…\nThat’s it for now! Cheers, everybody.\nP\n\n\n\n\nCitationBibTeX citation:@online{t. tanksley2024,\n  author = {T. Tanksley, Peter},\n  title = {Left-Hand {Thoughts}},\n  date = {2024-07-07},\n  url = {https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nT. Tanksley, Peter. 2024. “Left-Hand Thoughts.” July 7,\n2024. https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "My name is Peter Tanksley, I’m a biosocial criminologist studying social science genetics/epigenetics at UT Austin. This website is pretty boring right now but I plan to use it to host me-related information, materials, and (one day) a blog (“Left Hand Thoughts”).\nUntil I get things moving, I’d like to leave this image up as an illustration of how I (and many biosocial researchers like me) view their work. This image was taken from the cover of Douglas Hofstadter’s “Gödel, Escher, Bach: an Eternal Golden Braid”, a wonderful book about the origins of consciousness (at least, that was what I got from the 1/5 of the book that I managed to read in grad school before getting distracted by some world-ending assignment or other).\n\n\n\nCover image from “Gödel, Escher, Bach: an Eternal Golden Braid” by Douglas Hofstadter\n\n\nBut I have always found the image to be arresting and, if you imagine the letters to mean something other than the initials of the book’s title, also an apt visual depiction of how the key forces of biosocial research are interrelated (and interdependent). Imagine the letters stand for “Genes”, “Environment”, and “Behavior”. Most research paradigms make use of only two of the three, and they typically prioritize one in particular. For example, genome-wide association studies (GWAS) typically study genes and behavior (using the term very loosely), while assuming that the environments of the participants are exchangeable (i.e., they have no impact on the outcome). Of course, the people running these studies don’t really believe that to be the case, but it is a tacit assumption that many of those models make. In contrast, my perspective is that by leveraging multiple research paradigms and being as interdisciplinary as is practical, I can gain some kind of purchase on the colossal social issues that interest all social scientists (e.g., crime, poverty, health). As regards this image, think of a biosocial researcher as someone who is shifting the light source around this puzzling structure–suspended by mysterious means–and asking….\n\nWhat appears to be important if I look at it this way?\nWhat if I shift the light over here–what matters now?\nWhat if I use two lights at once?\n\nAnd so on, and so on, until a better understanding is gleaned.\nOk, that’s it for now! I hope to post more later on but for now, Bon voyage!"
   },
   {
     "objectID": "posts.html",
@@ -40,12 +47,5 @@
     "title": "Left-hand Thoughts (Blog)",
     "section": "",
     "text": "Left-hand Thoughts\n\n\n\nQuarto\n\n\nR\n\n\nLHT\n\n\n\nInitial post of the LHT (left-hand thoughts) blog.\n\n\n\nPeter T. Tanksley\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024-07-07_lht_blog_init/index.html",
-    "href": "posts/2024-07-07_lht_blog_init/index.html",
-    "title": "Left-hand Thoughts",
-    "section": "",
-    "text": "Remember spiral notebooks?\nI’ve used spiral notebooks throughout my whole school career but it took me an embarrassingly long period of time to realize something about them: only the right-hand side is worth a damn. In terms of legibility, that is. I’m a righty, so writing down notes on the left-hand side meant that my hand rested on the spiral itself for roughly half of each class period. I. HATED. IT.\nSo, I ended up only writing notes on the right-hand side of my spirals. This worked, but then I had a whole blank page to deal with. What did I do with this unexpected windfall of college-ruled wonderland of possibilities? Doodled. Mostly. I also wrote down interesting thoughts, not always related to the lecture I was listening to—interesting to me at least. Thus, the left-hand side of the spiral took on a new life. It became where all of the interesting things went. Or perhaps just ideas that I wanted to evict from my brain (where they had been living rent-free). Either way, the “left-hand thoughts” turned out to be the most interesting parts of those spirals.\n\n\n\nSpiral notebook from… doctorate? Notice the LHT, something about the ocean as a metaphor for the multiverse and fate. I have no idea where I was going with that…\n\n\n\n\nFast forward to today…\nNot being in school anymore, I don’t use spirals hardly at all. My hope for this blog is that I’ll be able to capture the spirit of these left-hand thoughts (LHTs) in a more fully explored format. These will probably focus more on coding and statistics (the very lame topics that occupy my mental left-hand side of my mental spiral nowadays). But there may be some other topics of interest in the future as well. We’ll just need to see how things go…\nThat’s it for now! Cheers, everybody.\nP\n\n\n\n\nCitationBibTeX citation:@online{t. tanksley2024,\n  author = {T. Tanksley, Peter},\n  title = {Left-Hand {Thoughts}},\n  date = {2024-07-07},\n  url = {https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nT. Tanksley, Peter. 2024. “Left-Hand Thoughts.” July 7,\n2024. https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/."
   }
 ]
