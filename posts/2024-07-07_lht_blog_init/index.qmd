@@ -9,7 +9,7 @@ date: 07-07-2024
 categories: [Quarto, R, LHT] # self-defined categories
 citation: 
   url: https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/ 
-image: spiral1.jpg
+image: spiral1.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -19,7 +19,7 @@ I've used spiral notebooks throughout my whole school career but it took me an e
 
 So, I ended up only writing notes on the right-hand side of my spirals. This worked, but then I had a whole blank page to deal with. What did I do with this unexpected windfall of college-ruled wonderland of possibilities? Doodled. Mostly. I also wrote down interesting thoughts, not always related to the lecture I was listening to—interesting to me at least. Thus, the left-hand side of the spiral took on a new life. It became where all of the interesting things went. Or perhaps just ideas that I wanted to evict from my brain (where they had been living rent-free). Either way, the "left-hand thoughts" turned out to be the most interesting parts of those spirals.
 
-![Spiral notebook from... doctorate? Notice the LHT, something about the ocean as a metaphor for the multiverse and fate. I have no idea where I was going with that...](spiral2.jpg){fig-align="center"}
+![Spiral notebook from... doctorate? Notice the LHT, something about the ocean as a metaphor for the multiverse and fate. I have no idea where I was going with that...](spiral2.png){fig-align="center"}
 
 ### Fast forward to today...
 

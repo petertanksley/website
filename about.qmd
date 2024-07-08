@@ -1,6 +1,6 @@
 ---
 title: ""
-image: tanksley_peter_headshot.jpeg
+image: tanksley_peter_headshot.png
 about: 
   template: trestles
   image-shape: rounded
