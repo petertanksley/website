@@ -11,7 +11,9 @@ website:
       - text: Autobiographical BS
         href: about.qmd
       - text: CV
-        href: cv.qmd
+        href: cv.qmd  
+      - posts.qmd 
+        
         
 format:
   html:

@@ -33,5 +33,19 @@
     "title": "A little about me",
     "section": "",
     "text": "Postdoctoral Fellowship (2024-present)\n\nALERRT Center, Texas State University\n\nPostdoctoral Fellowship (2020-2024)\n\nUniversity of Texas at Austin"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Left-Hand Thoughts (my blog)",
+    "section": "",
+    "text": "Left-hand Thoughts\n\n\n\nQuarto\n\n\nR\n\n\nLHT\n\n\n\nInitial post of the LHT (left-hand thoughts) blog.\n\n\n\nPeter T. Tanksley\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-07-07_lht_blog_init/index.html",
+    "href": "posts/2024-07-07_lht_blog_init/index.html",
+    "title": "Left-hand Thoughts",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{t. tanksley2024,\n  author = {T. Tanksley, Peter},\n  title = {Left-Hand {Thoughts}},\n  date = {2024-07-07},\n  url = {https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nT. Tanksley, Peter. 2024. “Left-Hand Thoughts.” July 7,\n2024. https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/."
   }
 ]

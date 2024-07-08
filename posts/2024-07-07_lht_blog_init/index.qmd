@@ -1,0 +1,14 @@
+---
+title: "Left-hand Thoughts"
+description: "Initial post of the LHT (left-hand thoughts) blog."
+author:
+  - name: Peter T. Tanksley
+    url: https://petertanksley.github.io/
+    affiliation: ALERRT Center, Texas State University
+date: 07-07-2024
+categories: [Quarto, R, LHT] # self-defined categories
+citation: 
+  url: https://petertanksley.github.io/posts/2024-07-07_lht_blog_init/ 
+#image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
