@@ -18,36 +18,15 @@ about:
 
 ------------------------------------------------------------------------
 
-## **Employment**
+I am:
 
-**Postdoctoral Fellowship (2024-present)**
+-   A husband and father of two little girls
+-   A native Texan (6th generation or some such)
+-   A BJJ blackbelt with passable skills (*ba dum tss*)
+-   A bit of an academic nomad (mostly criminology, genomics, and population health)
+-   An evangelical R user, and...
+-   The worst player of *Cards Against Humanity* you are likely to meet (seriously, I'm really bad)
 
--   ALERRT Center, Texas State University
+All of my academic-ee things you can read about on the page labeled "CV". But really, the blog posts about the random and undoubtedly overzealous application of R to everyday problems that are probably solved more easily using tools like... Excel (yuck)... is the content I've all been waiting for. So, "cry havoc! And let slip the dogs of war!" Or, just get going with the R stuff. Got it, got it, I'm going. More posts coming soon.
 
-**Postdoctoral Fellowship (2020-2024)**
-
--   University of Texas at Austin
-
-## Education
-
-**Doctorate in Criminal Justice (2020)**
-
--   University of Cincinnati
-
-**Masters in Criminology (2016)**
-
--   University of Texas at San Antonio
-
-**Bachelors in Criminal Justice (2014)**
-
--   University of Texas at San Antonio
-
-------------------------------------------------------------------------
-
-## **Research Interests**
-
--   Criminal Justice
-
--   Social science genetics/epigenetics
-
--   Population Health
+K, bye!
