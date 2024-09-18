@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "A little about me",
     "section": "",
-    "text": "Postdoctoral Fellowship (2024-present)\n\nALERRT Center, Texas State University\n\nPostdoctoral Fellowship (2020-2024)\n\nUniversity of Texas at Austin\n\n\n\n\nDoctorate in Criminal Justice (2020)\n\nUniversity of Cincinnati\n\nMasters in Criminology (2016)\n\nUniversity of Texas at San Antonio\n\nBachelors in Criminal Justice (2014)\n\nUniversity of Texas at San Antonio\n\n\n\n\n\n\nCriminal Justice\nSocial science genetics/epigenetics\nPopulation Health"
+    "text": "A little about me\n\nI am:\n\nA husband and father of two little girls\nA native Texan (6th generation or some such)\nA BJJ blackbelt with passable skills (ba dum tss)\nA bit of an academic nomad (mostly criminology, genomics, and population health)\nAn evangelical R user, and…\nThe worst player of Cards Against Humanity you are likely to meet (seriously, I’m really bad)\n\nAll of my academic-ee things you can read about on the page labeled “CV”. But really, the blog posts about the random and undoubtedly overzealous application of R to everyday problems that are probably solved more easily using tools like… Excel (yuck)… is the content I’ve all been waiting for. So, “cry havoc! And let slip the dogs of war!” Or, just get going with the R stuff. Got it, got it, I’m going. More posts coming soon.\nK, bye!"
   },
   {
     "objectID": "about.html#employment",
@@ -46,6 +46,13 @@
     "href": "posts.html",
     "title": "Left-hand Thoughts (Blog)",
     "section": "",
-    "text": "Left-hand Thoughts\n\n\n\nQuarto\n\n\nR\n\n\nLHT\n\n\n\nInitial post of the LHT (left-hand thoughts) blog.\n\n\n\nPeter T. Tanksley\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Left-hand Thoughts #1\n\n\n\nQuarto\n\n\nR\n\n\nLHT\n\n\n\nBirthday days\n\n\n\nPeter T. Tanksley\n\n\nSep 17, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeft-hand Thoughts\n\n\n\nQuarto\n\n\nR\n\n\nLHT\n\n\n\nInitial post of the LHT (left-hand thoughts) blog.\n\n\n\nPeter T. Tanksley\n\n\nJul 7, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-09-17_lht_birthday_day/index.html",
+    "href": "posts/2024-09-17_lht_birthday_day/index.html",
+    "title": "Left-hand Thoughts #1",
+    "section": "",
+    "text": "Birthday Days\nI have a largish family. At last count, I believe I had something in the order of fifteen nieces and nephews (to give you an indication). When my girls and I drive to the family farm (yes, we have a family farm and, yes, you should be jealous because, yes, it is dope), various siblings of mine descend on the farm with their many children in-tow.\nOn one such occasion, a nephew of mine said a curious thing. We were discussing birthdays and he said some like “My birthday is always on Saturday or Sunday”. Now, being only eight or so at the time, I suppose it is forgivable that he thought this–perhaps his last couple of birthdays were on these days and the rest were simply too far distant to remember. But it got me wondering: how do birthday days fall year-to-year?\nA simple enough question but, as I thought about it, I realized that I didn’t know anything about the subject. I had never thought about it! Now, obviously I could have simply Google’d my way into\n\n\n\n\nCitationBibTeX citation:@online{t. tanksley2024,\n  author = {T. Tanksley, Peter},\n  title = {Left-Hand {Thoughts} \\#1},\n  date = {2024-09-17},\n  url = {https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nT. Tanksley, Peter. 2024. “Left-Hand Thoughts #1.”\nSeptember 17, 2024. https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/."
   }
 ]

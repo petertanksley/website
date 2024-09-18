@@ -1,0 +1,22 @@
+---
+title: "Left-hand Thoughts #1"
+description: "Birthday days"
+author:
+  - name: Peter T. Tanksley
+    url: https://petertanksley.github.io/
+    affiliation: ALERRT Center, Texas State University
+date: 09/17/24
+categories: [Quarto, R, LHT] # self-defined categories
+citation: 
+  url: https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/ 
+image: spiral1.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Birthday Days
+
+I have a largish family. At last count, I believe I had something in the order of fifteen nieces and nephews (to give you an indication). When my girls and I drive to the family farm (yes, we have a family farm and, yes, you should be jealous because, yes, it is dope), various siblings of mine descend on the farm with their many children in-tow.
+
+On one such occasion, a nephew of mine said a curious thing. We were discussing birthdays and he said some like "My birthday is always on Saturday or Sunday". Now, being only eight or so at the time, I suppose it is forgivable that he thought this–perhaps his last couple of birthdays were on these days and the rest were simply too far distant to remember. But it got me wondering: how do birthday days fall year-to-year?
+
+A simple enough question but, as I thought about it, I realized that I didn't know anything about the subject. I had never thought about it! Now, obviously I could have simply Google'd my way into
