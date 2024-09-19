@@ -23,6 +23,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -120,6 +154,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#birthday-days" id="toc-birthday-days" class="nav-link active" data-scroll-target="#birthday-days">Birthday Days</a></li>
+  <li><a href="#to-the-batcave" id="toc-to-the-batcave" class="nav-link" data-scroll-target="#to-the-batcave">To the Batcave!</a>
+  <ul class="collapse">
+  <li><a href="#step-one-set-up-and-generate-some-data" id="toc-step-one-set-up-and-generate-some-data" class="nav-link" data-scroll-target="#step-one-set-up-and-generate-some-data">Step one: set-up and generate some data</a></li>
+  <li><a href="#step-two-visualize-the-data" id="toc-step-two-visualize-the-data" class="nav-link" data-scroll-target="#step-two-visualize-the-data">Step two: visualize the data</a></li>
+  <li><a href="#step-three-figure-out-the-pattern" id="toc-step-three-figure-out-the-pattern" class="nav-link" data-scroll-target="#step-three-figure-out-the-pattern">Step three: figure out the pattern!</a></li>
+  <li><a href="#step-four-the-extra-mile-lets-turn-all-of-this-into-a-function" id="toc-step-four-the-extra-mile-lets-turn-all-of-this-into-a-function" class="nav-link" data-scroll-target="#step-four-the-extra-mile-lets-turn-all-of-this-into-a-function">Step four (the extra mile): let’s turn all of this into a function!</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -130,9 +171,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title">
 <h1 class="title">Left-hand Thoughts #1</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Quarto</div>
-    <div class="quarto-category">R</div>
     <div class="quarto-category">LHT</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">dataviz</div>
   </div>
   </div>
 
@@ -178,9 +219,203 @@ ul.task-list li input[type="checkbox"] {
 <h1>Birthday Days</h1>
 <p>I have a largish family. At last count, I believe I had something in the order of fifteen nieces and nephews (to give you an indication). When my girls and I drive to the family farm (yes, we have a family farm and, yes, you should be jealous because, yes, it is dope), various siblings of mine descend on the farm with their many children in-tow.</p>
 <p>On one such occasion, a nephew of mine said a curious thing. We were discussing birthdays and he said some like “My birthday is always on Saturday or Sunday”. Now, being only eight or so at the time, I suppose it is forgivable that he thought this–perhaps his last couple of birthdays were on these days and the rest were simply too far distant to remember. But it got me wondering: how do birthday days fall year-to-year?</p>
-<p>A simple enough question but, as I thought about it, I realized that I didn’t know anything about the subject. I had never thought about it! Now, obviously I could have simply Google’d my way into</p>
+<p>A simple enough question, but as I thought about it I realized that I didn’t know anything about the subject. I had never thought about it! Now, obviously I could have simply Google’d my way into some higher state of enlightenment. But where’s the fun in that? I sensed that I had the tools in R toolkit to answer this question with logic alone (and who doesn’t like going the extra mile when it means you get to play with a new puzzle?).</p>
+<p>So, as the Joker once said: “Here. We. Go.”</p>
+</section>
+<section id="to-the-batcave" class="level1">
+<h1>To the Batcave!</h1>
+<p>(or RStudio, whatever…)</p>
+<section id="step-one-set-up-and-generate-some-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-one-set-up-and-generate-some-data">Step one: set-up and generate some data</h2>
+<p>I’ll start by loading up my favorite R packages. I pretty much always load these four packages, with the occasional addition of the {janitor} package if I’m doing some serious data cleaning.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(pacman)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">p_load</span>(rio, </span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>       tidyverse,</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>       tidylog)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Next up, generate some data! Let’s see… I need to find out what day of the week a specific calendar date falls on across multiple years. So let’s pick a fictitious birthday to start (can’t be sharin’ my real deets on the interwebs). Let’s go with January 30th, 2000. Ok, how we’re ready to generate some data on all of the years moving forward!</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="ot">&lt;-</span> <span class="fu">tibble</span>(<span class="at">year =</span> <span class="fu">seq</span>(<span class="dv">2000</span>, <span class="dv">2024</span>),</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>                    <span class="at">month =</span> <span class="dv">1</span>, </span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>                    <span class="at">day =</span> <span class="dv">30</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(bday_data)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Rows: 25
+Columns: 3
+$ year  &lt;int&gt; 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010…
+$ month &lt;dbl&gt; 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1…
+$ day   &lt;dbl&gt; 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, …</code></pre>
+</div>
+</div>
+<p>Sweet! We’ve got our basic data with repeated day/month values across years. Now, in order to move the investigation forward, we’ll want to create some date columns using the {lubidate} package. This will help later on I’m sure…</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="ot">&lt;-</span> bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">bday =</span> <span class="fu">ymd</span>(<span class="fu">paste</span>(year, month, day, <span class="at">sep =</span> <span class="st">" "</span>)),</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>         <span class="at">wday =</span> <span class="fu">wday</span>(bday, <span class="at">label=</span><span class="cn">TRUE</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>mutate: new variable 'bday' (Date) with 25 unique values and 0% NA</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>        new variable 'wday' (ordered factor) with 7 unique values and 0% NA</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(bday_data)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Rows: 25
+Columns: 5
+$ year  &lt;int&gt; 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010…
+$ month &lt;dbl&gt; 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1…
+$ day   &lt;dbl&gt; 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, …
+$ bday  &lt;date&gt; 2000-01-30, 2001-01-30, 2002-01-30, 2003-01-30, 2004-01-30, 200…
+$ wday  &lt;ord&gt; Sun, Tue, Wed, Thu, Fri, Sun, Mon, Tue, Wed, Fri, Sat, Sun, Mon,…</code></pre>
+</div>
+</div>
+<p>I added two variables. The first is a for real for real date variable (“bday”). Basically, this variable has special metadata attached to it that allows for lots of convenient calculations; it’s not just a string. The second variable, “wday”, was the day of the week for the date variable “bday”. I chose to include labels too, and it gave me back a nicely ordered factor-esque variable (so convenient! Thank you, {lubridate}!).</p>
+</section>
+<section id="step-two-visualize-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="step-two-visualize-the-data">Step two: visualize the data</h2>
+<p>Having created a dataset with lots of information regarding the days of interest, let’s take a look said shiny new dataset!</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, wday)) <span class="sc">+</span></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Cool! Ok, so there are definitely some patterns here. It looks like there are four-year stretches of consecutive days of the week for the birthday day. So, if my birthday was on a Wednesday last year, it would be Thursday this year, Friday the following year, and Saturday the year after that (assuming last year was the start of the four-year stretch)!</p>
+<p>But the pattern is only four years long, after which it skips a day of the week, and then starts a new four year stretch. Interesting. I’m pretty sure I know what’s going on, but before we sleuth any further, let’s clean up this plot some.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, wday)) <span class="sc">+</span></span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="at">fill=</span><span class="st">"dodgerblue"</span>) <span class="sc">+</span></span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x=</span><span class="fu">element_blank</span>(),</span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>       <span class="at">y=</span><span class="fu">element_blank</span>()) <span class="sc">+</span></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_fixed</span>(<span class="at">expand =</span> F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>This is nicer, but I want to avoid having tiles floating in air. Let beef up our dataset a little bit to include more than just the specific birthday we chose.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="ot">&lt;-</span> bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">complete</span>(year, wday)</span>
+<span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(bday_data)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Rows: 175
+Columns: 5
+$ year  &lt;int&gt; 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2001, 2001, 2001, 2001…
+$ wday  &lt;ord&gt; Sun, Mon, Tue, Wed, Thu, Fri, Sat, Sun, Mon, Tue, Wed, Thu, Fri,…
+$ month &lt;dbl&gt; 1, NA, NA, NA, NA, NA, NA, NA, NA, 1, NA, NA, NA, NA, NA, NA, NA…
+$ day   &lt;dbl&gt; 30, NA, NA, NA, NA, NA, NA, NA, NA, 30, NA, NA, NA, NA, NA, NA, …
+$ bday  &lt;date&gt; 2000-01-30, NA, NA, NA, NA, NA, NA, NA, NA, 2001-01-30, NA, NA,…</code></pre>
+</div>
+</div>
+<p>Ok, we filled out each year/weekday combination (the two axes of our plot). Now let’s try the plot again.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, wday)) <span class="sc">+</span></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="at">fill=</span><span class="st">"dodgerblue"</span>) <span class="sc">+</span></span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x=</span><span class="fu">element_blank</span>(),</span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>       <span class="at">y=</span><span class="fu">element_blank</span>()) <span class="sc">+</span></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_fixed</span>(<span class="at">expand =</span> F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Damn. We need to isolate our specific birthday days again. Hang on…</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, wday)) <span class="sc">+</span></span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="fu">aes</span>(<span class="at">fill=</span><span class="fu">ifelse</span>(<span class="sc">!</span><span class="fu">is.na</span>(day), <span class="st">"dodgerblue"</span>, <span class="st">"grey"</span>)), </span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>            <span class="at">show.legend =</span> F,</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey20"</span>) <span class="sc">+</span></span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x=</span><span class="fu">element_blank</span>(),</span>
+<span id="cb14-7"><a href="#cb14-7" aria-hidden="true" tabindex="-1"></a>       <span class="at">y=</span><span class="fu">element_blank</span>()) <span class="sc">+</span></span>
+<span id="cb14-8"><a href="#cb14-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb14-9"><a href="#cb14-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_fixed</span>(<span class="at">expand =</span> F) <span class="sc">+</span></span>
+<span id="cb14-10"><a href="#cb14-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_identity</span>() <span class="sc">+</span></span>
+<span id="cb14-11"><a href="#cb14-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">breaks =</span> <span class="fu">seq</span>(<span class="dv">2000</span>, <span class="dv">2024</span>)) <span class="sc">+</span></span>
+<span id="cb14-12"><a href="#cb14-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-8-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Ok! Now we’re cooking with gas! Couple things I did there. First, I used a conditional argument in the aes() call (I can’t tell you how handy that trick is). Sometimes it’s better to have the result of the conditional hard-coded into your dataset if its information value is high. But we’re exploring here, so no biggie. Second, I adjusted the x-axis labels. I generally don’t like have labels that need to be angled in order to be legible, but this is not too egregious.</p>
+</section>
+<section id="step-three-figure-out-the-pattern" class="level2">
+<h2 class="anchored" data-anchor-id="step-three-figure-out-the-pattern">Step three: figure out the pattern!</h2>
+<p>We’re so close to figuring out birthday days, I can taste the German chocolate cake (it’s a huge thing in my family, just roll with it)! But did you guess what breaks up the four-year pattern of consecutive weekdays? Of course you did, you clever so-and-so, it’s <strong>leap years</strong>! Years are not actually 365 days long; rather, they are 356.25 days long. And every four years, that .25 days adds up to a whole dollar! Or day! So, let’s bring that information into our dataset and plot!</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="ot">&lt;-</span> bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">lyear =</span> <span class="fu">leap_year</span>(year))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>mutate: new variable 'lyear' (logical) with 2 unique values and 0% NA</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(bday_data)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Rows: 175
+Columns: 6
+$ year  &lt;int&gt; 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2001, 2001, 2001, 2001…
+$ wday  &lt;ord&gt; Sun, Mon, Tue, Wed, Thu, Fri, Sat, Sun, Mon, Tue, Wed, Thu, Fri,…
+$ month &lt;dbl&gt; 1, NA, NA, NA, NA, NA, NA, NA, NA, 1, NA, NA, NA, NA, NA, NA, NA…
+$ day   &lt;dbl&gt; 30, NA, NA, NA, NA, NA, NA, NA, NA, 30, NA, NA, NA, NA, NA, NA, …
+$ bday  &lt;date&gt; 2000-01-30, NA, NA, NA, NA, NA, NA, NA, NA, 2001-01-30, NA, NA,…
+$ lyear &lt;lgl&gt; TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, FALSE, FALSE, FALSE, F…</code></pre>
+</div>
+</div>
+<p>Thanks again to the {lubridate} package (should really have made them today’s sponsor…), we have a lovely logical variable “lyear” that let’s us know if a specific year was a leap year. Now to update the plot!</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="sc">|&gt;</span> </span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, wday)) <span class="sc">+</span></span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="fu">aes</span>(<span class="at">fill=</span><span class="fu">case_when</span>((<span class="sc">!</span><span class="fu">is.na</span>(day)) <span class="sc">~</span> <span class="st">"dodgerblue"</span>,</span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true" tabindex="-1"></a>                               (<span class="fu">is.na</span>(day) <span class="sc">&amp;</span> lyear<span class="sc">==</span><span class="cn">TRUE</span>) <span class="sc">~</span> <span class="st">"brown4"</span>,</span>
+<span id="cb19-5"><a href="#cb19-5" aria-hidden="true" tabindex="-1"></a>                               (<span class="fu">is.na</span>(day) <span class="sc">&amp;</span> lyear<span class="sc">==</span><span class="cn">FALSE</span>) <span class="sc">~</span> <span class="st">"grey"</span>,)), </span>
+<span id="cb19-6"><a href="#cb19-6" aria-hidden="true" tabindex="-1"></a>            <span class="at">show.legend =</span> F,</span>
+<span id="cb19-7"><a href="#cb19-7" aria-hidden="true" tabindex="-1"></a>            <span class="at">color=</span><span class="st">"grey20"</span>) <span class="sc">+</span></span>
+<span id="cb19-8"><a href="#cb19-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x=</span><span class="fu">element_blank</span>(),</span>
+<span id="cb19-9"><a href="#cb19-9" aria-hidden="true" tabindex="-1"></a>       <span class="at">y=</span><span class="fu">element_blank</span>()) <span class="sc">+</span></span>
+<span id="cb19-10"><a href="#cb19-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb19-11"><a href="#cb19-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_fixed</span>(<span class="at">expand =</span> F) <span class="sc">+</span></span>
+<span id="cb19-12"><a href="#cb19-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_identity</span>() <span class="sc">+</span></span>
+<span id="cb19-13"><a href="#cb19-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">breaks =</span> <span class="fu">seq</span>(<span class="dv">2000</span>, <span class="dv">2024</span>)) <span class="sc">+</span></span>
+<span id="cb19-14"><a href="#cb19-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">angle =</span> <span class="dv">45</span>, <span class="at">hjust =</span> <span class="dv">1</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-10-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Look at that plot! It says it all! Four-year consecutive birthday days, skips one day because of those dastardly leap years, and then continues on for four more blissful years of predictable birthday days. What more could you want in a plot?</p>
+<p>(oh god, is he going to go the extra mile. he knows no one cares, right? there are no grades here, just longer blog posts that no one will ever read. oh shit, here he goes!)</p>
+</section>
+<section id="step-four-the-extra-mile-lets-turn-all-of-this-into-a-function" class="level2">
+<h2 class="anchored" data-anchor-id="step-four-the-extra-mile-lets-turn-all-of-this-into-a-function">Step four (the extra mile): let’s turn all of this into a function!</h2>
+<p>I’m going to fast forward a little bit through this part and keep the commentary to a minimum.</p>
+<p>First, I’ll wrap the data creation bit into a function with the data</p>
 
 
+</section>
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{t. tanksley2024,
