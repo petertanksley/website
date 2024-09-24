@@ -11,7 +11,7 @@ website:
       - text: Autobiographical BS
         href: about.qmd
       - text: CV  
-        href: cv.qmd  
+        href: tanksley_cv.qmd  
       - posts.qmd  
         
 format:

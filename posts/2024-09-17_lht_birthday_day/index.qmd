@@ -1,6 +1,6 @@
 ---
-title: "Left-hand Thoughts #1"
-description: "Birthday days"
+title: "LHT #1 - Birthday Days"
+description: "What day is your next birthday day?"
 author:
   - name: Peter T. Tanksley
     url: https://petertanksley.github.io/
@@ -9,7 +9,7 @@ date: 09/17/24
 categories: [LHT, R, dataviz] # self-defined categories
 citation: 
   url: https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/ 
-image: spiral1.png
+image: party_pineapple.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
@@ -74,12 +74,12 @@ But the pattern is only four years long, after which it skips a day of the week,
 
 ```{r}
 bday_data |> 
-  ggplot(aes(year, wday)) +
-  geom_tile(fill="dodgerblue") +
-  labs(x=element_blank(),
+  ggplot(aes(year, fct_rev(wday))) + #reversed the order of the y-axis
+  geom_tile(fill="dodgerblue") + #added nice color
+  labs(x=element_blank(), #dropped axis titles (they're pretty obvious anyway)
        y=element_blank()) +
-  theme_classic() +
-  coord_fixed(expand = F)
+  theme_classic() + #picked a better theme
+  coord_fixed(expand = F) #made the tiles square
 ```
 
 This is nicer, but I want to avoid having tiles floating in air. Let beef up our dataset a little bit to include more than just the specific birthday we chose.

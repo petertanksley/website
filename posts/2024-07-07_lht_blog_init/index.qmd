@@ -1,5 +1,5 @@
 ---
-title: "Left-hand Thoughts"
+title: "Left-hand Thoughts (LHT) #0"
 description: "Initial post of the LHT (left-hand thoughts) blog."
 author:
   - name: Peter T. Tanksley

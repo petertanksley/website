@@ -8,9 +8,9 @@
 
 <meta name="author" content="Peter T. Tanksley">
 <meta name="dcterms.date" content="2024-09-17">
-<meta name="description" content="Birthday days">
+<meta name="description" content="What day is your next birthday day?">
 
-<title>Peter T. Tanksley - Left-hand Thoughts #1</title>
+<title>Peter T. Tanksley - LHT #1 - Birthday Days</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -169,7 +169,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Left-hand Thoughts #1</h1>
+<h1 class="title">LHT #1 - Birthday Days</h1>
   <div class="quarto-categories">
     <div class="quarto-category">LHT</div>
     <div class="quarto-category">R</div>
@@ -179,7 +179,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <div>
   <div class="description">
-    Birthday days
+    What day is your next birthday day?
   </div>
 </div>
 
@@ -291,12 +291,12 @@ $ wday  &lt;ord&gt; Sun, Tue, Wed, Thu, Fri, Sun, Mon, Tue, Wed, Fri, Sat, Sun, 
 <p>But the pattern is only four years long, after which it skips a day of the week, and then starts a new four year stretch. Interesting. I’m pretty sure I know what’s going on, but before we sleuth any further, let’s clean up this plot some.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>bday_data <span class="sc">|&gt;</span> </span>
-<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, wday)) <span class="sc">+</span></span>
-<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="at">fill=</span><span class="st">"dodgerblue"</span>) <span class="sc">+</span></span>
-<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x=</span><span class="fu">element_blank</span>(),</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(year, <span class="fu">fct_rev</span>(wday))) <span class="sc">+</span> <span class="co">#reversed the order of the y-axis</span></span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_tile</span>(<span class="at">fill=</span><span class="st">"dodgerblue"</span>) <span class="sc">+</span> <span class="co">#added nice color</span></span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x=</span><span class="fu">element_blank</span>(), <span class="co">#dropped axis titles (they're pretty obvious anyway)</span></span>
 <span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>       <span class="at">y=</span><span class="fu">element_blank</span>()) <span class="sc">+</span></span>
-<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
-<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_fixed</span>(<span class="at">expand =</span> F)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span> <span class="co">#picked a better theme</span></span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_fixed</span>(<span class="at">expand =</span> F) <span class="co">#made the tiles square</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
 <div>
 <figure class="figure">
@@ -420,13 +420,13 @@ $ lyear &lt;lgl&gt; TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, FALSE, FALSE, FALS
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{t. tanksley2024,
   author = {T. Tanksley, Peter},
-  title = {Left-Hand {Thoughts} \#1},
+  title = {LHT \#1 - {Birthday} {Days}},
   date = {2024-09-17},
   url = {https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-t. tanksley2024" class="csl-entry quarto-appendix-citeas" role="listitem">
-T. Tanksley, Peter. 2024. <span>“Left-Hand Thoughts #1.”</span>
+T. Tanksley, Peter. 2024. <span>“LHT #1 - Birthday Days.”</span>
 September 17, 2024. <a href="https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/">https://petertanksley.github.io/posts/2024-09-17_lht_birthday_day/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
