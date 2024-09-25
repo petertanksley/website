@@ -9,10 +9,10 @@ website:
       # - text: Home
       #   href: index.qmd
       - text: Autobiographical BS
-        href: about.qmd
+        href: 1_about/about.qmd
       - text: CV  
-        href: tanksley_cv.qmd  
-      - posts.qmd  
+        href: 2_cv/tanksley_cv.qmd  
+      - 3_posts/posts.qmd  
         
 format:
   html:
