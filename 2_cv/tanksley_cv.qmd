@@ -73,99 +73,179 @@ Sociogenomics/epigenetics
 
 ### Academic Articles
 
+#### **2025**
+
+::: {style="margin-left: 60px"}
+McAllister, Matthew J., Caitlin Dodge, **Peter T. Tanksley**, 
+M. Hunter Martaindale, Seven E. Martin, & Drew Gonzalez.\
+"Markers of fitness, stress, and cardiometabolic disease risk among law 
+enforcement officers." 
+*Journal of Occupational and Environmental Medicine* (accepted).
+:::
+
 #### **2024**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.**, Sarah J. Brislin, Jasmin Wertz, Ronald de Vlaming, Natasia S. Courchesne-Krak, Travis T. Mallard, Laurel A. S. Raffington, Richard Karlsson Linner, Philipp Koellinger, Abraham A. Palmer, Sandra Sanchez-Roige, Irwin Waldman, Danielle Dick, Terrie E. Moffitt, Avshalom Caspi, & K. Paige Harden.\
-"Do polygenic indices capture “direct” effects on child externalizing behavior? Within-family analyses in two longitudinal birth cohorts." *Clinical Psychological Science* (online first).
+**Tanksley, Peter T.**, Sarah J. Brislin, Jasmin Wertz, Ronald de Vlaming, 
+Natasia S. Courchesne-Krak, Travis T. Mallard, Laurel A. S. Raffington, Richard 
+Karlsson Linner, Philipp Koellinger, Abraham A. Palmer, Sandra Sanchez-Roige, 
+Irwin Waldman, Danielle Dick, Terrie E. Moffitt, Avshalom Caspi, & K. Paige 
+Harden.\
+"Do polygenic indices capture “direct” effects on child externalizing behavior? 
+Within-family analyses in two longitudinal birth cohorts." 
+*Clinical Psychological Science* (online first).
 
-Barnes, J.C., Terrie E. Moffitt, **Peter T. Tanksley**, Shahin Tasharrofi, Richie Poulton, & Avshalom Caspi.\
-"Using Risk of Crime Detection to Study Change in Mechanisms of Decision-Making." *Journal of Personality & Social Psychology*, 126(3), 477–491.
+Barnes, J.C., Terrie E. Moffitt, **Peter T. Tanksley**, Shahin Tasharrofi, 
+Richie Poulton, & Avshalom Caspi.\
+"Using Risk of Crime Detection to Study Change in Mechanisms of 
+Decision-Making." *Journal of Personality & Social Psychology*, 126(3), 477–491.
 
-Willems, Yayouk E., Abby deSteiguer, **Peter T. Tanksley**, Liza Vinnik, Deniz Främke, Aysu Okbay, David Richter, Gert G. Wagner, Ralph Hertwig, Philipp D. Koellinger, Elliot M. Tucker-Drob, K. Paige Harden, & Laurel A.S. Raffington.\
-"Self-control is associated with health-relevant disparities in buccal DNA-methylation measures of biological aging in older adults." *Clinical Epigenetics*, 16 (22).
+Willems, Yayouk E., Abby deSteiguer, **Peter T. Tanksley**, Liza Vinnik, 
+Deniz Främke, Aysu Okbay, David Richter, Gert G. Wagner, Ralph Hertwig, 
+Philipp D. Koellinger, Elliot M. Tucker-Drob, K. Paige Harden, & 
+Laurel A.S. Raffington.\
+"Self-control is associated with health-relevant disparities in buccal 
+DNA-methylation measures of biological aging in older adults." 
+*Clinical Epigenetics*, 16 (22).
 :::
 
 #### **2023**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.**, Matthew W. Logan, & J.C. Barnes.\
-"History of incarceration and age-related neurodegeneration: Testing models of genetic and environmental risks in a longitudinal panel study of older adults." *PLoS ONE*, 18 (12): e0288303.
+"History of incarceration and age-related neurodegeneration: Testing models of 
+genetic and environmental risks in a longitudinal panel study of older adults." 
+*PLoS ONE*, 18 (12): e0288303.
 
-Williams, Camille M., Holly Poore, **Peter T. Tanksley**, Hyeokmoon Kweon, Natasia S. Courchesne-Krak, Diego Londono-Correa, Travis T. Mallard, Peter Barr, Philipp D. Koellinger, Irwin D. Waldman, Sandra Sanchez-Roige, K. Paige Harden, Abraham A Palmer, Danielle M. Dick, & Richard Karlsson Linnér.\
-"Guidelines for evaluating the comparability of down-sampled GWAS summary statistics." *Behavior Genetics*, 53, 404–415.
+Williams, Camille M., Holly Poore, **Peter T. Tanksley**, Hyeokmoon Kweon, 
+Natasia S. Courchesne-Krak, Diego Londono-Correa, Travis T. Mallard, Peter Barr, 
+Philipp D. Koellinger, Irwin D. Waldman, Sandra Sanchez-Roige, K. Paige Harden, 
+Abraham A Palmer, Danielle M. Dick, & Richard Karlsson Linnér.\
+"Guidelines for evaluating the comparability of down-sampled GWAS summary 
+statistics." *Behavior Genetics*, 53, 404–415.
 
-Raffington, Laurel A.S., **Peter T. Tanksley**, Liza Vinnik, Aditi Sabhlok, Megan Patterson, Travis T. Mallard, Margherita Malanchini, Ziada Ayorech, Elliot M. Tucker-Drob, & K. Paige Harden.\
-"Socially stratified DNA-methylation profiles are associated with disparities in child and adolescent mental health." *Clinical Psychological Science*, 34 (2), 170–185.
+Raffington, Laurel A.S., **Peter T. Tanksley**, Liza Vinnik, Aditi Sabhlok, 
+Megan Patterson, Travis T. Mallard, Margherita Malanchini, Ziada Ayorech, 
+Elliot M. Tucker-Drob, & K. Paige Harden.\
+"Socially stratified DNA-methylation profiles are associated with disparities 
+in child and adolescent mental health." *Clinical Psychological Science*, 34 
+(2), 170–185.
 
-Wertz, Jasmin, Terrie E. Moffitt, Louise Arseneault, J.C. Barnes, Michel Boivin, David L. Corcoran, Andrea Danese, Robert J. Hancox, HonaLee Harrington, Renate M. Houts, Stephanie Langevin, Hexuan Liu, Richie Poulton, Karen Sugden, **Peter T. Tanksley**, Benjamin S. Williams, & Avshalom Caspi.\
-“Genetic associations with parental investment from conception to wealth inheritance: 30,000 parents in six cohorts”. *Nature Human Behavior*, 7, 1388–1401.
+Wertz, Jasmin, Terrie E. Moffitt, Louise Arseneault, J.C. Barnes, 
+Michel Boivin, David L. Corcoran, Andrea Danese, Robert J. Hancox, 
+HonaLee Harrington, Renate M. Houts, Stephanie Langevin, Hexuan Liu, 
+Richie Poulton, Karen Sugden, **Peter T. Tanksley**, Benjamin S. Williams, & 
+Avshalom Caspi.\
+“Genetic associations with parental investment from conception to wealth 
+inheritance: 30,000 parents in six cohorts”. *Nature Human Behavior*, 7, 
+1388–1401.
 :::
 
 #### **2022**
 
 ::: {style="margin-left: 60px"}
-Langevin, Stephanie, Ashalom Caspi, J.C. Barnes, Grace Brennan, Richie Poulton, Suzanne C. Purdy, Sandhya Ramrakha, **Peter T. Tanksley**, Peter R. Thorne, Graham Wilson, & Terrie E. Moffitt.\
-"Life-course persistent antisocial behavior and accelerated biological aging in a longitudinal birth cohort." *The International Journal of Environmental Research and Public Health*, 19(21), 14402.
+Langevin, Stephanie, Ashalom Caspi, J.C. Barnes, Grace Brennan, Richie Poulton, 
+Suzanne C. Purdy, Sandhya Ramrakha, **Peter T. Tanksley**, Peter R. Thorne, 
+Graham Wilson, & Terrie E. Moffitt.\
+"Life-course persistent antisocial behavior and accelerated biological aging in 
+a longitudinal birth cohort." 
+*The International Journal of Environmental Research and Public Health*, 
+19(21), 14402.
 
-Raffington, Laurel A.S., **Peter T. Tanksley**, Aditi Sabhlok, Liza Vinnik, Travis T. Mallard, Lucy King, Bridget Goosby, K. Paige Harden, & Elliot M. Tucker-Drob.\
-"Socially stratified epigenetic profiles are associated with cognitive functioning in children and adolescents." *Psychological Science*, 34(2), 170-185.
+Raffington, Laurel A.S., **Peter T. Tanksley**, Aditi Sabhlok, Liza Vinnik, 
+Travis T. Mallard, Lucy King, Bridget Goosby, K. Paige Harden, & Elliot M. 
+Tucker-Drob.\
+"Socially stratified epigenetic profiles are associated with cognitive 
+functioning in children and adolescents." *Psychological Science*, 34(2), 
+170-185.
 
-Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, Rachel M. Kail, & J.C. Barnes.\
-"Incarceration, polygenic risk, and depressive symptoms among males in late adulthood." *Social Science Research*, 104, 102683.
+Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, Rachel M. Kail, & 
+J.C. Barnes.\
+"Incarceration, polygenic risk, and depressive symptoms among males in late 
+adulthood." *Social Science Research*, 104, 102683.
 :::
 
 #### **2021**
 
 ::: {style="margin-left: 60px"}
-Liu, Hexuan, Ryan T. Motz, **Peter T. Tanksley**, J.C. Barnes, & Kathleen Mullan Harris.\
-"Adolescent criminal justice involvement, educational attainment, and genetic inheritance: Testing an integrative model using the Add Health data." *Journal of Developmental & Life-Course Criminology*, 7(2), 195-228.
+Liu, Hexuan, Ryan T. Motz, **Peter T. Tanksley**, J.C. Barnes, & 
+Kathleen Mullan Harris.\
+"Adolescent criminal justice involvement, educational attainment, and genetic 
+inheritance: Testing an integrative model using the Add Health data." 
+*Journal of Developmental & Life-Course Criminology*, 7(2), 195-228.
 :::
 
 #### **2020**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.**, J.C. Barnes, Brian Boutwell, Avshalom Caspi, & Terrie E. Moffitt.\
-“Identifying pathways to polyvictimization: Evidence from a Longitudinal Cohort Study of Twins from the United Kingdom.” *Journal of Experimental Criminology*, 16 (3), 431-461.
+**Tanksley, Peter T.**, J.C. Barnes, Brian Boutwell, Avshalom Caspi, & 
+Terrie E. Moffitt.\
+“Identifying pathways to polyvictimization: Evidence from a Longitudinal Cohort 
+Study of Twins from the United Kingdom.” *Journal of Experimental Criminology*, 
+16 (3), 431-461.
 :::
 
 #### **2019**
 
 ::: {style="margin-left: 60px"}
-Barnes, J.C., Hexuan Liu, Ryan T. Motz, **Peter T. Tanksley**, Rachel M. Kail, Amber L. Beckley, Daniel W. Belsky, Benjamin W. Domingue, Terrie E. Moffitt, Travis C. Pratt, & Jasmin Wertz.\
-"The propensity for aggressive behavior and lifetime incarceration risk: A test for gene-environment interaction (G×E) using whole-genome data." *Aggression & Violent Behavior*, 49, 101307.
+Barnes, J.C., Hexuan Liu, Ryan T. Motz, **Peter T. Tanksley**, Rachel M. Kail, 
+Amber L. Beckley, Daniel W. Belsky, Benjamin W. Domingue, Terrie E. Moffitt, 
+Travis C. Pratt, & Jasmin Wertz.\
+"The propensity for aggressive behavior and lifetime incarceration risk: A test 
+for gene-environment interaction (G×E) using whole-genome data." 
+*Aggression & Violent Behavior*, 49, 101307.
 
 **Tanksley, Peter T.**, Ryan T. Motz, Rachel M. Kail, J.C. Barnes, & Hexuan Liu.\
-“The genome-wide study of human social behavior and its application in sociology.” *Frontiers of Sociology*, 4(53): 1-10.
+“The genome-wide study of human social behavior and its application in 
+sociology.” *Frontiers of Sociology*, 4(53): 1-10.
 
 Motz, Ryan M., **Peter T. Tanksley**, Hexuan Liu, Tesfaye B. Mersha, & J.C. Barnes.\
-“Every contact leaves a trace: Contact with the criminal justice system, life outcomes, and the intersection with genetics.” *Current Opinion in Psychology*, 27: 82-87.
+“Every contact leaves a trace: Contact with the criminal justice system, life 
+outcomes, and the intersection with genetics.” *Current Opinion in Psychology*, 
+27: 82-87.
 :::
 
 ### [Preprints/Under Review]{.smallcaps}
 
 ::: {style="margin-left: 60px"}
-Blair, J. Pete, **Peter T. Tanksley**, & Emily D. Spivey.\
-"To what are we inferring? The widespread misuse of inferential testing in the most cited criminology and criminal justice journals." Under review at *Justice Quarterly*.
+
+Gonzalez, Drew E., Macylinn E. Coles, **Peter T. Tanksley**, M. Hunter Martaindale,
+Steven E. Martin, & Matthew J. McAllister.\
+"Relationships between physiological stress biomarkers and cardiovascular 
+disease risk factor assessment among career firefighters" Under review at the 
+*Journal of Occupational and Environmental Medicine*.
+
+Blair, J. Pete, **Peter T. Tanksley**, Emily D. Spivey, & M. Hunter Martaindale.\
+"To what are we inferring? The widespread misuse of inferential testing in the 
+most cited criminology and criminal justice journals." Under review at the 
+*American Journal of Criminal Justice*.
 
 Wooldredge, John, Joshua C. Cochran, & **Peter T. Tanksley**.\
-"Cumulative disadvantages in the processing of prison rule violators?" Under review at *Journal of Criminal Justice*.
+"Cumulative disadvantages in the processing of prison rule violators?" Under 
+review at *Journal of Research in Crime and Delinquency*.
 
-deSteiguer, Abby, **Peter T. Tanksley**, Laurel A.S. Raffington, Elliot M. Tucker-Drob, & K. Paige Harden.\
-"Stability of DNA-methylation profiles of biological aging in children and adolescents." *Biorxiv*. Under review at *Child Development*.
+deSteiguer, Abby, **Peter T. Tanksley**, Laurel A.S. Raffington, 
+Elliot M. Tucker-Drob, & K. Paige Harden.\
+"Stability of DNA-methylation profiles of biological aging in children and 
+adolescents." *Biorxiv*. Under review at *Child Development*.
 :::
 
 ### [In-Progress]{.smallcaps}
 
 ::: {style="margin-left: 60px"}
-Del Toro, Juan, Laurel A.S. Raffington, Muna Aikins, Aditi Sabhlok, **Peter T. Tanksley**, Elliot M. Tucker-Drob, & K. Paige Harden.\
-"Associations of neighborhood and school racial contexts with child and adolescent DNA-methylation profiles and their mental health and academic adjustment." Preregistration: <https://osf.io/xfr48/>
+Del Toro, Juan, Laurel A.S. Raffington, Muna Aikins, Aditi Sabhlok, 
+**Peter T. Tanksley**, Elliot M. Tucker-Drob, & K. Paige Harden.\
+"Associations of neighborhood and school racial contexts with child and 
+adolescent DNA-methylation profiles and their mental health and academic 
+adjustment." Preregistration: <https://osf.io/xfr48/>
 
 The Externalizing Consortium & **Peter T. Tanksley** (analyst).\
-"Multivariate GWAS of externalizing behaviors in \~3M individuals of European and African ancestries."\
+"Multivariate GWAS of externalizing behaviors in \~3M individuals of European 
+and African ancestries."\
 Preregistration: <https://osf.io/7pfgj/>
 
-Schwaba, Ted, **Peter T. Tanksley** (analyst), & the Revived Genomics of Personality Consortium.
+Schwaba, Ted, **Peter T. Tanksley** (analyst), & the Revived Genomics of 
+Personality Consortium.
 :::
 
 ## [Presentations]{.smallcaps}
@@ -175,122 +255,191 @@ Schwaba, Ted, **Peter T. Tanksley** (analyst), & the Revived Genomics of Persona
 #### **2023**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.** “The incarceration experience, health, and biological aging: Evidence from the Midlife in the United States (MIDUS) study.” Paper presented at the annual conference for the American Society of Criminology, November, Philadelphia, PA.
+**Tanksley, Peter T.** “The incarceration experience, health, and biological 
+aging: Evidence from the Midlife in the United States (MIDUS) study.” Paper 
+presented at the annual conference for the American Society of Criminology, 
+November, Philadelphia, PA.
 
-**Tanksley, Peter T.**, Matthew W. Logan, & J.C. Barnes. “History of incarceration and age-related neurodegeneration: Testing models of genetic and environmental risks in a longitudinal panel study of older adults.” Paper presented at the annual conference for the American Society of Criminology, November, Philadelphia, PA.
+**Tanksley, Peter T.**, Matthew W. Logan, & J.C. Barnes. “History of 
+incarceration and age-related neurodegeneration: Testing models of genetic and 
+environmental risks in a longitudinal panel study of older adults.” Paper 
+presented at the annual conference for the American Society of Criminology, 
+November, Philadelphia, PA.
 :::
 
 #### **2022**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.**, Sarah J. Brislin, Jasmin Wertz, Travis T. Mallard, & K. Paige Harden.\
-“Identifying genetic and environmental pathways for the development of externalizing behavior using within-family genomic data.” Paper presented at the annual conference for the Behavior Genetics Association, June, Los Angeles, CA.
+**Tanksley, Peter T.**, Sarah J. Brislin, Jasmin Wertz, Travis T. Mallard, & 
+K. Paige Harden.\
+“Identifying genetic and environmental pathways for the development of 
+externalizing behavior using within-family genomic data.” Paper presented at 
+the annual conference for the Behavior Genetics Association, June, Los Angeles, CA.
 :::
 
 #### **2021**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.** & J.C. Barnes.\
-“Early Criminal Justice Contact and Accelerated Biological Aging Throughout Adulthood.” Paper presented at the annual conference for the American Society of Criminology, November, Chicago, IL.
+“Early Criminal Justice Contact and Accelerated Biological Aging Throughout 
+Adulthood.” Paper presented at the annual conference for the American Society 
+of Criminology, November, Chicago, IL.
 
 **Tanksley, Peter T.**\
-“Evidence of Accelerated Aging Among Americans with a History of Incarceration.” Paper presented at the annual conference for the American Society of Criminology, November, Chicago, IL.
+“Evidence of Accelerated Aging Among Americans with a History of Incarceration.” 
+Paper presented at the annual conference for the American Society of Criminology, 
+November, Chicago, IL.
 
 **Tanksley, Peter T.**\
-“Evidence of Accelerated Aging Among Americans with a History of Incarceration.” Paper presented virtually at the annual conference for Integrating Genetics and Social Sciences, October, Boulder, CO.
+“Evidence of Accelerated Aging Among Americans with a History of Incarceration.” 
+Paper presented virtually at the annual conference for Integrating Genetics and 
+Social Sciences, October, Boulder, CO.
 :::
 
 #### **2020**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.** “Aging out: Biological age and its role in the criminal career.” Paper and poster presented virtually at the annual conference for Integrating Genetics and Social Sciences, October, Boulder, CO.
+**Tanksley, Peter T.** “Aging out: Biological age and its role in the criminal 
+career.” Paper and poster presented virtually at the annual conference for 
+Integrating Genetics and Social Sciences, October, Boulder, CO.
 :::
 
 #### **2019**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.**\
-“Identifying psychological pathways to polyvictimization.” Paper presented at the annual conference for the American Society of Criminology, November, San Francisco, CA.
+“Identifying psychological pathways to polyvictimization.” Paper presented at 
+the annual conference for the American Society of Criminology, November, 
+San Francisco, CA.
 
 Barnes, J.C., **Peter T. Tanksley**, & Terrie E. Moffitt.\
-“Perceptions of punishment risk from adolescence to middle adulthood.” Paper presented at the annual conference for the American Society of Criminology, November, San Francisco, CA.
+“Perceptions of punishment risk from adolescence to middle adulthood.” Paper 
+presented at the annual conference for the American Society of Criminology, 
+November, San Francisco, CA.
 
-**Tanksley, Peter T.**, & Jorim J. Tielbeek, for the Broad Antisocial Behavior Consortium.\
-“A new genome-wide association study of antisocial behavior: Expanding the BroadABC.” Paper presented at the annual conference for the American Society of Criminology, November, San Francisco, CA.
+**Tanksley, Peter T.**, & Jorim J. Tielbeek, for the Broad Antisocial Behavior 
+Consortium.\
+“A new genome-wide association study of antisocial behavior: Expanding the 
+BroadABC.” Paper presented at the annual conference for the American Society 
+of Criminology, November, San Francisco, CA.
 
-**Tanksley, Peter T.**, & Jorim J. Tielbeek, for the Broad Antisocial Behavior Consortium.\
-“A new genome-wide association study of antisocial behavior: Expanding the BroadABC.” Paper and poster presented at the annual conference for Integrating Genetics and Social Sciences, October, Boulder, CO.
+**Tanksley, Peter T.**, & Jorim J. Tielbeek, for the Broad Antisocial Behavior 
+Consortium.\
+“A new genome-wide association study of antisocial behavior: Expanding the 
+BroadABC.” Paper and poster presented at the annual conference for Integrating 
+Genetics and Social Sciences, October, Boulder, CO.
 :::
 
 #### **2018**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.**, Ryan T. Motz, Hexuan Liu, J.C. Barnes, Brian Boutwell, Avshalom Caspi, & Terrie E. Moffitt.\
-“Victimization and the effects of cognitive traits: A discordant MZ-twin approach.” Paper presented at the annual conference for the American Society of Criminology, November, Atlanta, GA.
+**Tanksley, Peter T.**, Ryan T. Motz, Hexuan Liu, J.C. Barnes, Brian Boutwell, 
+Avshalom Caspi, & Terrie E. Moffitt.\
+“Victimization and the effects of cognitive traits: A discordant MZ-twin 
+approach.” Paper presented at the annual conference for the American Society 
+of Criminology, November, Atlanta, GA.
 
 Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, & J.C. Barnes.\
-“Incarceration risk, genetic inheritance, and depression over the life-course.” Paper and poster presented at the annual conference for Integrating Genetics and Social Sciences, October, Boulder, CO.
+“Incarceration risk, genetic inheritance, and depression over the life-course.” 
+Paper and poster presented at the annual conference for Integrating Genetics 
+and Social Sciences, October, Boulder, CO.
 :::
 
 #### **2017**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.** & J.C. Barnes.\
-“Geri-paths: Testing the effects of age on neurophysiological functioning in psychopathic individuals.” Paper presented at the annual conference for the America Society of Criminology, November, Philadelphia, PA.
+“Geri-paths: Testing the effects of age on neurophysiological functioning in 
+psychopathic individuals.” Paper presented at the annual conference for the 
+America Society of Criminology, November, Philadelphia, PA.
 :::
 
 #### **2016**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.** & Jamie Newsome.\
-“Differential susceptibility in psychopathic subtypes: The role of genetic plasticity in the development of successful psychopaths.” Poster presented at the annual conference for the American Society of Criminology, November, New Orleans, LA.
+“Differential susceptibility in psychopathic subtypes: The role of genetic 
+plasticity in the development of successful psychopaths.” Poster presented at 
+the annual conference for the American Society of Criminology, November, 
+New Orleans, LA.
 :::
 
 #### **2015**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.**, Jamie Newsome, & James V. Ray.\
-“Genetic and environmental influences on the relationship between callous-unemotional traits and delinquency.” Poster presented at the annual conference for the American Society of Criminology, November, Washington, D.C.
+“Genetic and environmental influences on the relationship between 
+callous-unemotional traits and delinquency.” Poster presented at the annual 
+conference for the American Society of Criminology, November, Washington, D.C.
 :::
 
 ### [Invited Talks]{.smallcaps}
 
+#### **2024**
+
+::: {style="margin-left: 60px"}
+"Linking incarceration and health: A tale of three models" Presented to the 
+Correctional Systems and Practices undergraduate course for the School of 
+Criminal Justice and Criminology, Texas State University, San Marcos, TX, USA.
+
+"Go analog, baby! Epigenetics & Social Science Research" Presented to the 
+Biosocial Criminology doctoral course for the School of Criminal Justice, 
+University of Cincinnati, Cincinnati, OH, USA.
+:::
+
 #### **2023**
 
 ::: {style="margin-left: 60px"}
-"Linking incarceration and health: A tale of three models" Presented to the Correctional Systems and Practices undergraduate course for the School of Criminal Justice and Criminology, Texas State University, San Marcos, TX, USA.
+"Linking incarceration and health: A tale of three models" Presented to the 
+Correctional Systems and Practices undergraduate course for the School of 
+Criminal Justice and Criminology, Texas State University, San Marcos, TX, USA.
 
-"The biosocial lens." Presented to the Correctional Systems and Practices undergraduate course for the School of Criminal Justice and Criminology, Texas State University, San Marcos, TX, USA.
+"The biosocial lens." Presented to the Correctional Systems and Practices 
+undergraduate course for the School of Criminal Justice and Criminology, 
+Texas State University, San Marcos, TX, USA.
 
-"The role of environmental factors in a genetic predictor of externalizing behavior: Evidence across development in two UK-based cohorts." Presented at the Open Research Meeting, hosted by the Externalizing Consortium (virtual).
+"The role of environmental factors in a genetic predictor of externalizing 
+behavior: Evidence across development in two UK-based cohorts." Presented at 
+the Open Research Meeting, hosted by the Externalizing Consortium (virtual).
 
-"The role of environmental factors in a genetic predictor of externalizing behavior: Evidence across development in two UK-based cohorts." Presented to the Department of Sociology, Purdue University, West Lafayette, IN, USA.
+"The role of environmental factors in a genetic predictor of externalizing 
+behavior: Evidence across development in two UK-based cohorts." Presented to 
+the Department of Sociology, Purdue University, West Lafayette, IN, USA.
 :::
 
 #### **2022**
 
 ::: {style="margin-left: 60px"}
-"Direct genetic effects are the primary drivers of externalizing genetics during development." Presented to the Biosocial Working Group, University of Texas at Austin, Austin, TX, USA.
+"Direct genetic effects are the primary drivers of externalizing genetics 
+during development." Presented to the Biosocial Working Group, University of 
+Texas at Austin, Austin, TX, USA.
 :::
 
 #### **2021**
 
 ::: {style="margin-left: 60px"}
-“Crime and biological aging.” Presented to the School of Social Sciences, University of Bialystok, Bialystok, Poland.
+“Crime and biological aging.” Presented to the School of Social Sciences, 
+University of Bialystok, Bialystok, Poland.
 :::
 
 #### **2019**
 
 ::: {style="margin-left: 60px"}
-“Research discussion: ‘Identifying pathways to polyvictimization.’” Presented to the “Criminal Justice Research Methods” course at the University of Cincinnati, Cincinnati, OH, USA.
+“Research discussion: ‘Identifying pathways to polyvictimization.’” Presented 
+to the “Criminal Justice Research Methods” course at the University of 
+Cincinnati, Cincinnati, OH, USA.
 :::
 
 #### **2018**
 
 ::: {style="margin-left: 60px"}
-“Criminogenomics: The study of crime in a postgenomic era.” Presented to the “Introduction to Criminological Theory” course at the University of Cincinnati, Cincinnati, OH, USA.
+“Criminogenomics: The study of crime in a postgenomic era.” Presented to the 
+“Introduction to Criminological Theory” course at the University of Cincinnati, 
+Cincinnati, OH, USA.
 
-“Geri-paths: Testing the effects of age on neurophysiological functioning in psychopathic individuals.” Presented at the Research + Innovation Week at the University of Cincinnati, Cincinnati, OH, USA.
+“Geri-paths: Testing the effects of age on neurophysiological functioning in 
+psychopathic individuals.” Presented at the Research + Innovation Week at the 
+University of Cincinnati, Cincinnati, OH, USA.
 :::
 
 ## [Awards]{.smallcaps}
@@ -332,9 +481,17 @@ Amount: \$1,200
 Amount: \$2,500
 :::
 
+## Editorial Boards
+
+::: {style="margin-left: 60px"}
+Psychology of Addictive Behaviors (principal reviewer - genetics)\
+American Journal of Criminal Justice (member)
+:::
+
 ## Ad Hoc Reviewer
 
 ::: {layout-ncol="2" style="margin-left: 60px"}
+American Journal of Criminal Justice\
 Criminal Justice & Behavior\
 Epigenetics\
 Journal of Developmental & Life-course Criminology\
@@ -399,7 +556,7 @@ Bash, Plink, and other Linux-based tools for bioinformatics
 [*GESIS, Leibniz Institute for the Social Sciences*]{.smallcaps}[2020]{style="float: right"}
 :::
 
-**Genomics for Social Scientists**  
+**Genomics for Social Scientists**
 
 ::: {style="margin-left: 60px"}
 [*Institute for Social Research, University of Michigan*]{.smallcaps} [2019]{style="float: right"}
