@@ -80,10 +80,10 @@ deSteiguer, Abby J., Laurel A.S. Raffington, Aditi Sabhlok, **Peter T. Tanksley*
 "Stability of aging- and cognition-related methylation profile scores across two waves in Children and Adolescents." *Child Development* (online first).
 
 Gonzalez, Drew E., Macilynn E. Coles, **Peter T. Tanksley**, M. Hunter Martaindale, Steven E. Martin, Matthew J. McAllister.\
-"Relationships between physiological stress biomarkers and cardiovascular disease risk factors among career firefighters."  *Journal of Occupational and Environmental Medicine*, (online first).
+"Relationships between physiological stress biomarkers and cardiovascular disease risk factors among career firefighters." *Journal of Occupational and Environmental Medicine* (online first).
 
 McAllister, Matthew J., Caitlin Dodge, **Peter T. Tanksley**, M. Hunter Martaindale, Seven E. Martin, & Drew E. Gonzalez.\
-"Markers of fitness, stress, and cardiometabolic disease risk among law enforcement officers." *Journal of Occupational and Environmental Medicine*, (online first).
+"Markers of fitness, stress, and cardiometabolic disease risk among law enforcement officers." *Journal of Occupational and Environmental Medicine* (online first).
 :::
 
 #### **2024**
@@ -162,7 +162,7 @@ Motz, Ryan M., **Peter T. Tanksley**, Hexuan Liu, Tesfaye B. Mersha, & J.C. Barn
 #### **2024**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.** "Introducing the Active Attack Data Explorer". Presented to the ALERRT Conference, December, San Marcos, TX. 
+**Tanksley, Peter T.** "Introducing the Active Attack Data Explorer". Presented at the ALERRT Conference, December, San Marcos, TX.
 :::
 
 #### **2023**
@@ -346,9 +346,10 @@ American Journal of Criminal Justice (member)
 American Journal of Criminal Justice\
 Criminal Justice & Behavior\
 Epigenetics\
-Journal of Developmental & Life-course Criminology\
-Journal of Research in Crime & Delinquency
+European Journal of Criminology\
+Journal of Developmental & Life-course Criminology
 
+Journal of Research in Crime & Delinquency\
 Molecular Psychiatry\
 Psychology of Addictive Behaviors\
 Social Science & Medicine\
