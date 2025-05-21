@@ -350,7 +350,7 @@ Psychology of Addictive Behaviors (principal reviewer - genetics)\
 American Journal of Criminal Justice (member)
 :::
 
-## Ad Hoc Reviewer
+## [Ad Hoc Reviewer]{.smallcaps}
 
 ::: {layout-ncol="2" style="margin-left: 60px"}
 American Journal of Criminal Justice\
@@ -366,7 +366,7 @@ Social Science & Medicine\
 Youth & Society
 :::
 
-## Statistical Software & Programming
+## [Statistical Software & Programming]{.smallcaps}
 
 **Operating Systems**
 
@@ -392,7 +392,7 @@ ActiveAttackData.org
 Bash, Plink, and other Linux-based tools for bioinformatics
 :::
 
-## Advanced Training
+## [Advanced Training]{.smallcaps}
 
 **Experiments in Social Science Research** &\
 **Interactive Visualization, Dashboards, and Apps with R and Shiny**
@@ -425,7 +425,7 @@ Bash, Plink, and other Linux-based tools for bioinformatics
 [*Institute for Social Research, University of Michigan*]{.smallcaps} [2019]{style="float: right"}
 :::
 
-## Teaching
+## [Teaching]{.smallcaps}
 
 **Instructed**
 
