@@ -343,7 +343,7 @@ Amount: \$1,200
 Amount: \$2,500
 :::
 
-## Editorial Boards
+## [Editorial Boards]{.smallcaps}
 
 ::: {style="margin-left: 60px"}
 Psychology of Addictive Behaviors (principal reviewer - genetics)\
