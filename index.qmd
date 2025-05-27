@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-My name is Peter Tanksley, I'm a biosocial criminologist studying social science genetics/epigenetics at UT Austin. This website is pretty boring right now but I plan to use it to host me-related information, materials, and (one day) a blog ("Left Hand Thoughts").
+My name is Peter Tanksley, I'm a ~~biosocial criminologist studying social science genetics/epigenetics at UT Austin~~ research scientist at the ALERRT Center, Texas State University. This website is pretty boring right now but I plan to use it to host me-related information, materials, and (one day) a blog ("Left Hand Thoughts").
 
 Until I get things moving, I'd like to leave this image up as an illustration of how I (and many biosocial researchers like me) view their work. This image was taken from the cover of Douglas Hofstadter's "[Gödel, Escher, Bach: an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)", a wonderful book about the origins of consciousness (at least, that was what I got from the 1/5 of the book that I managed to read in grad school before getting distracted by some world-ending assignment or other).
 
