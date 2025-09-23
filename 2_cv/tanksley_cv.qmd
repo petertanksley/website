@@ -357,6 +357,7 @@ American Journal of Criminal Justice (member)
 
 ::: {layout-ncol="2" style="margin-left: 60px"}
 American Journal of Criminal Justice\
+American Journal of Public Health\
 Criminal Justice & Behavior\
 Epigenetics\
 European Journal of Criminology\
