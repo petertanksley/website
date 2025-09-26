@@ -76,6 +76,9 @@ Sociogenomics/epigenetics
 #### **2025**
 
 ::: {style="margin-left: 60px"}
+**Tanksley, Peter T.**, J.C. Barnes, J. Pete Blair, & M. Hunter Martaindale.\
+"Mortality among law enforcement officers in the United States: A population-wide analysis of the National Occupational Mortality Surveillance data, 2020-2023." *The Lancet Regional Health - Americas* (accepted).
+
 Blair, Pete J., **Peter T. Tanksley**, Emily D. Spivey, & M. Hunter Martaindale.\
 "To what are we inferring? The widespread misuse of inferential testing in the most cited criminology and criminal justice journals." *American Journal of Criminal Justice* (online first).
 
