@@ -140,27 +140,27 @@ Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, Rachel M. Kail, & J.C. Barnes.
 #### **2021**
 
 ::: {style="margin-left: 60px"}
-Liu, Hexuan, Ryan T. Motz, **Peter T. Tanksley**, J.C. Barnes, & Kathleen Mullan Harris.\
+Liu, Hexuan, Ryan T. Motz, **Peter T. Tanksley**, J.C. Barnes, & Kathleen Mullan Harris.\  
 "Adolescent criminal justice involvement, educational attainment, and genetic inheritance: Testing an integrative model using the Add Health data." *Journal of Developmental & Life-Course Criminology*, 7(2), 195-228.
 :::
 
 #### **2020**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.**, J.C. Barnes, Brian Boutwell, Avshalom Caspi, & Terrie E. Moffitt.\
+**Tanksley, Peter T.**, J.C. Barnes, Brian Boutwell, Avshalom Caspi, & Terrie E. Moffitt.\  
 “Identifying pathways to polyvictimization: Evidence from a longitudinal cohort study of twins from the United Kingdom.” *Journal of Experimental Criminology*, 16 (3), 431-461.
 :::
 
 #### **2019**
 
 ::: {style="margin-left: 60px"}
-Barnes, J.C., Hexuan Liu, Ryan T. Motz, **Peter T. Tanksley**, Rachel M. Kail, Amber L. Beckley, Daniel W. Belsky, Benjamin W. Domingue, Terrie E. Moffitt, Travis C. Pratt, & Jasmin Wertz.\
+Barnes, J.C., Hexuan Liu, Ryan T. Motz, **Peter T. Tanksley**, Rachel M. Kail, Amber L. Beckley, Daniel W. Belsky, Benjamin W. Domingue, Terrie E. Moffitt, Travis C. Pratt, & Jasmin Wertz.\  
 "The propensity for aggressive behavior and lifetime incarceration risk: A test for gene-environment interaction (G×E) using whole-genome data." *Aggression & Violent Behavior*, 49, 101307.
 
-**Tanksley, Peter T.**, Ryan T. Motz, Rachel M. Kail, J.C. Barnes, & Hexuan Liu.\
+**Tanksley, Peter T.**, Ryan T. Motz, Rachel M. Kail, J.C. Barnes, & Hexuan Liu.\  
 “The genome-wide study of human social behavior and its application in sociology.” *Frontiers of Sociology*, 4(53): 1-10.
 
-Motz, Ryan M., **Peter T. Tanksley**, Hexuan Liu, Tesfaye B. Mersha, & J.C. Barnes.\
+Motz, Ryan M., **Peter T. Tanksley**, Hexuan Liu, Tesfaye B. Mersha, & J.C. Barnes.\  
 “Every contact leaves a trace: Contact with the criminal justice system, life outcomes, and the intersection with genetics.” *Current Opinion in Psychology*, 27: 82-87.
 :::
 
@@ -175,18 +175,28 @@ Schwaba, Ted, Margaret L. Clapp Sullivan, Wonuola A. Akingbuwa, Kerli Ilves, **P
 
 ### [Academic Conferences]{.smallcaps}
 
+#### **2025**
+
+::: {style="margin-left: 60px"}
+**Tanksley, Peter T.**, J.C. Barnes, J. Pete Blair, & M. Hunter Martaindale.\
+"Leading causes of death among law enforcement occupations: New evidence from the National Occupational Mortality Surveillance data". Presented at the annual conference for the International Association of Chiefs of Police, October, Denver, CO.
+:::
+
 #### **2024**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.** "Introducing the Active Attack Data Explorer". Presented at the ALERRT Conference, December, San Marcos, TX.
+**Tanksley, Peter T.**\
+"Introducing the Active Attack Data Explorer". Presented at the ALERRT Conference, December, San Marcos, TX.
 :::
 
 #### **2023**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.** “The incarceration experience, health, and biological aging: Evidence from the Midlife in the United States (MIDUS) study.” Paper presented at the annual conference for the American Society of Criminology, November, Philadelphia, PA.
+**Tanksley, Peter T.**\
+“The incarceration experience, health, and biological aging: Evidence from the Midlife in the United States (MIDUS) study.” Paper presented at the annual conference for the American Society of Criminology, November, Philadelphia, PA.
 
-**Tanksley, Peter T.**, Matthew W. Logan, & J.C. Barnes. “History of incarceration and age-related neurodegeneration: Testing models of genetic and environmental risks in a longitudinal panel study of older adults.” Paper presented at the annual conference for the American Society of Criminology, November, Philadelphia, PA.
+**Tanksley, Peter T.**, Matthew W. Logan, & J.C. Barnes.\
+“History of incarceration and age-related neurodegeneration: Testing models of genetic and environmental risks in a longitudinal panel study of older adults.” Paper presented at the annual conference for the American Society of Criminology, November, Philadelphia, PA.
 :::
 
 #### **2022**
@@ -212,7 +222,8 @@ Schwaba, Ted, Margaret L. Clapp Sullivan, Wonuola A. Akingbuwa, Kerli Ilves, **P
 #### **2020**
 
 ::: {style="margin-left: 60px"}
-**Tanksley, Peter T.** “Aging out: Biological age and its role in the criminal career.” Paper and poster presented virtually at the annual conference for Integrating Genetics and Social Sciences, October, Boulder, CO.
+**Tanksley, Peter T.**\
+“Aging out: Biological age and its role in the criminal career.” Paper and poster presented virtually at the annual conference for Integrating Genetics and Social Sciences, October, Boulder, CO.
 :::
 
 #### **2019**
