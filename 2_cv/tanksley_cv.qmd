@@ -418,7 +418,7 @@ R (Primary), Stata
 **Data Science Projects**
 
 ::: {style="margin-left: 60px"}
-[ActiveAttackData.org](https://alerrt-research.github.io/PROJ_activeattack_website/)
+[ActiveAttackData.org](https://alerrt-research.github.io/PROJ_activeattack_website/){target="_blank"}
 :::
 
 **Other Tools**
