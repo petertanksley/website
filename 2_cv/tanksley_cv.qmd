@@ -76,6 +76,9 @@ Sociogenomics/epigenetics
 #### **2026**
 
 ::: {style="margin-left: 60px"}
+Wooldredge, John, Joshua C. Cochran, & **Peter T. Tanksley**.\
+"Upstream and downstream disparities in prison rule violation processes." [*Journal of Research in Crime & Delinquency*](https://doi.org/10.1177/00224278251411905){target="_blank"} (online first).
+
 **Tanksley, Peter T.**, J.C. Barnes, J. Pete Blair, & M. Hunter Martaindale.\
 "Clarifying methods and interpretations in law enforcement mortality surveillance: Response to Kamal" [*The Lancet Regional Health - Americas*](https://doi.org/10.1016/j.lana.2025.101330){target="_blank"}, 53.
 
@@ -86,9 +89,6 @@ Martaindale, M. Hunter & **Peter T. Tanksley**.\
 #### **2025**
 
 ::: {style="margin-left: 60px"}
-Wooldredge, John, Joshua C. Cochran, & **Peter T. Tanksley**.\
-"Upstream and downstream disparities in prison rule violation processes." *Journal of Research in Crime & Delinquency* (accepted).
-
 **Tanksley, Peter T.**, J.C. Barnes, J. Pete Blair, & M. Hunter Martaindale.\
 "Mortality among law enforcement officers in the United States: A population-wide analysis of the National Occupational Mortality Surveillance data, 2020-2023." [*The Lancet Regional Health - Americas*](https://doi.org/10.1016/j.lana.2025.101270){target="_blank"}, 52 (2667-193X).
 
