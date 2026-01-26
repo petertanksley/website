@@ -86,29 +86,29 @@ Wooldredge, John, Joshua C. Cochran, & **Peter T. Tanksley**.\
 "Clarifying methods and interpretations in law enforcement mortality surveillance: Response to Kamal." [*The Lancet Regional Health - Americas*](https://doi.org/10.1016/j.lana.2025.101330){target="_blank"}, 53.
 
 Martaindale, M. Hunter & **Peter T. Tanksley**.\
-"Public opinion and the immediate entry dilemma: A factorial survey experiment on active shooter response." [*Journal of Criminal Justice*](https://doi.org/10.1016/j.jcrimjus.2025.102578){target="_blank"}, 102 (102578).
+"Public opinion and the immediate entry dilemma: A factorial survey experiment on active shooter response." [*Journal of Criminal Justice*](https://doi.org/10.1016/j.jcrimjus.2025.102578){target="_blank"}, 102, 102578.
 :::
 
 #### **2025**
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.**, J.C. Barnes, J. Pete Blair, & M. Hunter Martaindale.\
-"Mortality among law enforcement officers in the United States: A population-wide analysis of the National Occupational Mortality Surveillance data, 2020-2023." [*The Lancet Regional Health - Americas*](https://doi.org/10.1016/j.lana.2025.101270){target="_blank"}, 52 (2667-193X).
+"Mortality among law enforcement officers in the United States: A population-wide analysis of the National Occupational Mortality Surveillance data, 2020-2023." [*The Lancet Regional Health - Americas*](https://doi.org/10.1016/j.lana.2025.101270){target="_blank"}, 52, 101270.
 
 Blair, Pete J., **Peter T. Tanksley**, Emily D. Spivey, & M. Hunter Martaindale.\
 "To what are we inferring? The widespread misuse of inferential testing in the most cited criminology and criminal justice journals." [*American Journal of Criminal Justice*](https://doi.org/10.1007/s12103-025-09845-4){target="_blank"} (online first).
 
 Blair, Pete J., M. Hunter Martaindale, **Peter T. Tanksley**, & Jack D. Johncox.\
-"Active attacks with motor vehicles: A short report and case study of the 2025 New Year's Day attack in New Orleans, LA." [*American Journal of Criminal Justice*](https://doi.org/10.1007/s12103-025-09806-x){target="_blank"} (online first).
+"Active attacks with motor vehicles: A short report and case study of the 2025 New Year's Day attack in New Orleans, LA." [*American Journal of Criminal Justice*](https://doi.org/10.1007/s12103-025-09806-x){target="_blank"}, 50, 1067–1074.
 
 deSteiguer, Abby J., Laurel A.S. Raffington, Aditi Sabhlok, **Peter T. Tanksley**, Elliot M. Tucker‐Drob, & K. Paige Harden.\
-"Stability of aging- and cognition-related methylation profile scores across two waves in Children and Adolescents." [*Child Development*](https://doi.org/10.1111/cdev.14239){target="_blank"}, 96 (3).
+"Stability of aging- and cognition-related methylation profile scores across two waves in Children and Adolescents." [*Child Development*](https://doi.org/10.1111/cdev.14239){target="_blank"}, 96 (3), 1189-1206.
 
 Gonzalez, Drew E., Macilynn E. Coles, **Peter T. Tanksley**, M. Hunter Martaindale, Steven E. Martin, & Matthew J. McAllister.\
-"Relationships between physiological stress biomarkers and cardiovascular disease risk factors among career firefighters." [*Journal of Occupational and Environmental Medicine*](https://doi.org/10.1097/JOM.0000000000003389){target="_blank"}, 10-1097.
+"Relationships between physiological stress biomarkers and cardiovascular disease risk factors among career firefighters." [*Journal of Occupational and Environmental Medicine*](https://doi.org/10.1097/JOM.0000000000003389){target="_blank"}, 67 (7), 535-541.
 
 McAllister, Matthew J., Caitlin Dodge, **Peter T. Tanksley**, M. Hunter Martaindale, Seven E. Martin, & Drew E. Gonzalez.\
-"Markers of fitness, stress, and cardiometabolic disease risk among law enforcement officers." [*Journal of Occupational and Environmental Medicine*](https://doi.org/10.1097/JOM.0000000000003357){target="_blank"}, 67 (6).
+"Markers of fitness, stress, and cardiometabolic disease risk among law enforcement officers." [*Journal of Occupational and Environmental Medicine*](https://doi.org/10.1097/JOM.0000000000003357){target="_blank"}, 67 (6), 437-444.
 :::
 
 #### **2024**
@@ -128,7 +128,7 @@ Willems, Yayouk E., Abby deSteiguer, **Peter T. Tanksley**, Liza Vinnik, Deniz F
 
 ::: {style="margin-left: 60px"}
 **Tanksley, Peter T.**, Matthew W. Logan, & J.C. Barnes.\
-"History of incarceration and age-related neurodegeneration: Testing models of genetic and environmental risks in a longitudinal panel study of older adults." [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0288303){target="_blank"}, 18 (12): e0288303.
+"History of incarceration and age-related neurodegeneration: Testing models of genetic and environmental risks in a longitudinal panel study of older adults." [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0288303){target="_blank"}, 18 (12), e0288303.
 
 Williams, Camille M., Holly Poore, **Peter T. Tanksley**, Hyeokmoon Kweon, Natasia S. Courchesne-Krak, Diego Londono-Correa, Travis T. Mallard, Peter Barr, Philipp D. Koellinger, Irwin D. Waldman, Sandra Sanchez-Roige, K. Paige Harden, Abraham A Palmer, Danielle M. Dick, & Richard Karlsson Linnér.\
 "Guidelines for evaluating the comparability of down-sampled GWAS summary statistics." [*Behavior Genetics*](https://doi.org/10.1007/s10519-023-10152-z){target="_blank"}, 53, 404–415.
@@ -144,10 +144,10 @@ Wertz, Jasmin, Terrie E. Moffitt, Louise Arseneault, J.C. Barnes, Michel Boivin,
 
 ::: {style="margin-left: 60px"}
 Langevin, Stephanie, Ashalom Caspi, J.C. Barnes, Grace Brennan, Richie Poulton, Suzanne C. Purdy, Sandhya Ramrakha, **Peter T. Tanksley**, Peter R. Thorne, Graham Wilson, & Terrie E. Moffitt.\
-"Life-course persistent antisocial behavior and accelerated biological aging in a longitudinal birth cohort." [*The International Journal of Environmental Research and Public Health*](https://doi.org/10.3390/ijerph192114402){target="_blank"}, 19(21), 14402.
+"Life-course persistent antisocial behavior and accelerated biological aging in a longitudinal birth cohort." [*The International Journal of Environmental Research and Public Health*](https://doi.org/10.3390/ijerph192114402){target="_blank"}, 19 (21), 14402.
 
 Raffington, Laurel A.S., **Peter T. Tanksley**, Aditi Sabhlok, Liza Vinnik, Travis T. Mallard, Lucy King, Bridget Goosby, K. Paige Harden, & Elliot M. Tucker-Drob.\
-"Socially stratified epigenetic profiles are associated with cognitive functioning in children and adolescents." [*Psychological Science*](https://doi.org/10.1177/09567976221122760){target="_blank"}, 34(2), 170-185.
+"Socially stratified epigenetic profiles are associated with cognitive functioning in children and adolescents." [*Psychological Science*](https://doi.org/10.1177/09567976221122760){target="_blank"}, 34 (2), 170-185.
 
 Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, Rachel M. Kail, & J.C. Barnes.\
 "Incarceration, polygenic risk, and depressive symptoms among males in late adulthood." [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2021.102683){target="_blank"}, 104, 102683.
@@ -157,7 +157,7 @@ Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, Rachel M. Kail, & J.C. Barnes.
 
 ::: {style="margin-left: 60px"}
 Liu, Hexuan, Ryan T. Motz, **Peter T. Tanksley**, J.C. Barnes, & Kathleen Mullan Harris.\
-"Adolescent criminal justice involvement, educational attainment, and genetic inheritance: Testing an integrative model using the Add Health data." [*Journal of Developmental & Life-Course Criminology*](https://doi.org/10.1007/s40865-021-00166-8){target="_blank"}, 7(2), 195-228.
+"Adolescent criminal justice involvement, educational attainment, and genetic inheritance: Testing an integrative model using the Add Health data." [*Journal of Developmental & Life-Course Criminology*](https://doi.org/10.1007/s40865-021-00166-8){target="_blank"}, 7 (2), 195-228.
 :::
 
 #### **2020**
@@ -174,10 +174,10 @@ Barnes, J.C., Hexuan Liu, Ryan T. Motz, **Peter T. Tanksley**, Rachel M. Kail, A
 "The propensity for aggressive behavior and lifetime incarceration risk: A test for gene-environment interaction (G×E) using whole-genome data." [*Aggression & Violent Behavior*](https://doi.org/10.1016/j.avb.2019.07.002){target="_blank"}, 49, 101307.
 
 **Tanksley, Peter T.**, Ryan T. Motz, Rachel M. Kail, J.C. Barnes, & Hexuan Liu.\
-“The genome-wide study of human social behavior and its application in sociology.” [*Frontiers of Sociology*](https://doi.org/10.3389/fsoc.2019.00053){target="_blank"}, 4(53): 1-10.
+“The genome-wide study of human social behavior and its application in sociology.” [*Frontiers of Sociology*](https://doi.org/10.3389/fsoc.2019.00053){target="_blank"}, 4 (53), 1-10.
 
 Motz, Ryan M., **Peter T. Tanksley**, Hexuan Liu, Tesfaye B. Mersha, & J.C. Barnes.\
-“Every contact leaves a trace: Contact with the criminal justice system, life outcomes, and the intersection with genetics.” [*Current Opinion in Psychology*](https://doi.org/10.1016/j.copsyc.2018.09.008){target="_blank"}, 27: 82-87.
+“Every contact leaves a trace: Contact with the criminal justice system, life outcomes, and the intersection with genetics.” [*Current Opinion in Psychology*](https://doi.org/10.1016/j.copsyc.2018.09.008){target="_blank"}, 27, 82-87.
 :::
 
 ### [Preprints]{.smallcaps}
