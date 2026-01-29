@@ -77,7 +77,7 @@ Sociogenomics/epigenetics
 
 ::: {style="margin-left: 60px"}
 Eleuterio-da-Rocha, Joe, **Peter T. Tanksley**, M. Hunter Martaindale, Jack Johncox, & J. Pete Blair.\
-"Striking or Grappling? Comparing Public and Officers’ Perceptions of Police Use of Force." *Journal of Criminal Justice* (accepted).
+"Striking or Grappling? Comparing Public and Officers’ Perceptions of Police Use of Force." [*Journal of Criminal Justice*](https://doi.org/10.1016/j.jcrimjus.2026.102601){target="_blank"}, 103, 102601.
 
 Wooldredge, John, Joshua C. Cochran, & **Peter T. Tanksley**.\
 "Upstream and downstream disparities in prison rule violation processes." [*Journal of Research in Crime & Delinquency*](https://doi.org/10.1177/00224278251411905){target="_blank"} (online first).
