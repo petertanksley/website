@@ -17,6 +17,16 @@
   font-style: italic;
 }
 
+.pseudo-header {
+  display: block;
+  font-size: 1.4em;      /* adjust to match h3/h4 */
+  font-weight: 600;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+  text-align: left;
+  margin-left: -1.5rem;
+}
+
 /* adapt stylesheet for print
 from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncomment-4081842 */
 
@@ -91,3 +101,20 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
     color: #36a7e9;
   }
 }
+
+
+ol {
+  padding-left: 1.5em;   /* controls how far the whole list is indented */
+}
+
+ol li {
+  padding-left: 1.5em;  /* controls space between number and text */
+}
+
+
+ol li,
+ul li {
+  margin-bottom: 0.5em;
+}
+
+
