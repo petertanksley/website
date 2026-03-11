@@ -338,6 +338,14 @@ Liu, Hexuan, **Peter T. Tanksley**, Ryan T. Motz, & J.C. Barnes.\
 
 ## [Funding]{.smallcaps}
 
+**Educating Attention for High-Stakes Decisions: An Ecological Dynamics \
+Approach in Use-of-Force Contexts**\
+
+::: {style="margin-left: 60px"}
+[*Decision, Risk and Management Sciences program, The National Science Foundation*]{.smallcaps} [2025]{style="float: right"}\
+Amount: \$939,016 (Unfunded)
+:::
+
 **Improving Law Enforcement Officers' Ability to Correctly Identify Weapons\
 Through Training the Visual System**\
 
@@ -382,6 +390,7 @@ American Journal of Public Health\
 Criminal Justice & Behavior\
 Epigenetics\
 European Journal of Criminology\
+Journal of Criminal Justice\
 Journal of Developmental & Life-course Criminology
 
 Journal of Research in Crime & Delinquency\
