@@ -171,6 +171,10 @@ Sociogenomics/epigenetics
 ### [Preprints]{.smallcaps}
 
 ::: {style="margin-left: 60px"}
+Fraemke, D., L. Paulus, I. Schuurmans, J.-H. Walter, D. Czamara, A. M. Schowe, A. deSteiguer, **Peter T. Tanksley**, A. Okbay, B. Mönkediek, J. Instinske, M. M. Nöthen, C. K. L. Dißelkamp, A. J. Forstner, E. B. Binder, C. Kandler, F. M. Spinath, U. Lindenberger, M. Malanchini, C. A. M. Cecil, C. Mitchell, K. P. Harden, E. M. Tucker-Drob, L. Raffington.\
+"Developmental correlates of epigenetic and polygenic indices of cognition and educational attainment from birth to young adulthood." 
+[*BioRxiv*](https://doi.org/10.64898/2026.04.01.715866){target="_blank"} .
+
 Wiliams, Camille M., Holly E. Poore, Diego Londono-Correa, Yuchen Ning, Natasia S. Courchesne-Krak, Maia Choi, Justin D. Tubbs, Matthew Rosenblatt, **Peter T. Tanksley**, Fazil Aliev, Nathaniel Y. Bell, Joseph D. Deak, Jean Gonzalez, Mariela Jennings, Emma C. Johnson, Tanya N. Phung, Marijn Schipper, Ronald de Vlaming, Kai Yuan, Hang Zhou, Emily Balcke, Sarah J. Brislin, COGA Collaborators, Javier de la Fuente, Michael J. Gandal, Tian Ge, Joel Gelernter, Danielle Posthuma, Jordan W. Smoller, Elliot M. Tucker-Drob, Irwin D. Waldman, Abraham A. Palmer, Peter B. Barr, Sandra Sanchez-Roige, Richard Karlsson Linnér, Danielle M. Dick, K. Paige Harden, & Travis T. Mallard.\
 "Genomic insights into substance use and disinhibitory disorders." [*MedRxiv*](https://doi.org/10.64898/2026.02.09.26344198){target="_blank"} .
 
